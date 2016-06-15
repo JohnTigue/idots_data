@@ -1,9 +1,0 @@
-{
-"@type": "TableGroup",
-"@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
-"tables": [
-  {
-  "url": "who.by_county.2016_03_20.csv",
-  "tableSchema": "who.by_county.2016_03_20.csv-metadata.json"
-  }]    
-}
