@@ -1,0 +1,16 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "who.by_county.2016_03_20.csv",
+  "dc:creator": "WHO",
+  "tableSchema": {
+    "columns": [{
+      "titles": "Indicator"
+    },{
+      "titles": "Country"
+    },{
+      "titles": "Date"
+    },{
+      "titles": "value"
+    }]
+  }
+}
