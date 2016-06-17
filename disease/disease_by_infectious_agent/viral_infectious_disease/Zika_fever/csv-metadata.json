@@ -1,0 +1,9 @@
+{
+"@type": "TableGroup",
+"@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+"tables": [
+  {
+  "url": "zika_data_on_google_drive.2016-06-17.csv",
+  "tableSchema": "zika_data_on_google_drive.2016-06-17.csv-metadata.json"
+  }]    
+}

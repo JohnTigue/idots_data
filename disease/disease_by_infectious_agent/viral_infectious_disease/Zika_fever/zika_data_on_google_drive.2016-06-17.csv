@@ -1,0 +1,1853 @@
+,PAHO Sub-Region,ISO-3,Country / territory,IFRC Sub-Region,Population,Tracker Update Date,Data Publication Date,EPI Week (year),EPI Week (outbreak),Cases
+#severity,#region,#geo+ISO3,#country,#region+IFRC,#population+total,#date+tracker+update,#date+data+publication,#date+EPIweek+year,#date+EPIweek+outbreak,#affected
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,15th February 2016,12th February 2016,6,21,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,15th February 2016,12th February 2016,6,21,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,15th February 2016,12th February 2016,6,21,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,15th February 2016,12th February 2016,6,21,1
+Deaths,Andean,BOL,Bolivia,Americas,10561887,15th February 2016,12th February 2016,6,21,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,15th February 2016,12th February 2016,6,21,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,15th February 2016,12th February 2016,6,21,236
+Deaths,South Cone,BRA,Brazil,Americas,206077898,15th February 2016,12th February 2016,6,21,4
+Suspected,South Cone,BRA,Brazil,Americas,206077898,15th February 2016,12th February 2016,6,21,70611
+Confirmed,Andean,COL,Colombia,Americas,47791393,15th February 2016,12th February 2016,6,21,1331
+Deaths,Andean,COL,Colombia,Americas,47791393,15th February 2016,12th February 2016,6,21,3
+Suspected,Andean,COL,Colombia,Americas,47791393,15th February 2016,12th February 2016,6,21,24314
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,15th February 2016,12th February 2016,6,21,1
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,15th February 2016,12th February 2016,6,21,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,15th February 2016,12th February 2016,6,21,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,15th February 2016,12th February 2016,6,21,1
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,15th February 2016,12th February 2016,6,21,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,15th February 2016,12th February 2016,6,21,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,15th February 2016,12th February 2016,6,21,10
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,15th February 2016,12th February 2016,6,21,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,15th February 2016,12th February 2016,6,21,0
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,15th February 2016,12th February 2016,6,21,25
+Deaths,Andean,ECU,Ecuador,Americas,15902916,15th February 2016,12th February 2016,6,21,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,15th February 2016,12th February 2016,6,21,0
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,15th February 2016,12th February 2016,6,21,3
+Deaths,Central America,SLV,El Salvador,Americas,6107706,15th February 2016,12th February 2016,6,21,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,15th February 2016,12th February 2016,6,21,7923
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,15th February 2016,12th February 2016,6,21,88
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,15th February 2016,12th February 2016,6,21,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,15th February 2016,12th February 2016,6,21,430
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,15th February 2016,12th February 2016,6,21,17
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,15th February 2016,12th February 2016,6,21,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,15th February 2016,12th February 2016,6,21,0
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,15th February 2016,12th February 2016,6,21,105
+Deaths,Central America,GTM,Guatemala,Americas,16015494,15th February 2016,12th February 2016,6,21,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,15th February 2016,12th February 2016,6,21,278
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,15th February 2016,12th February 2016,6,21,1
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,15th February 2016,12th February 2016,6,21,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,15th February 2016,12th February 2016,6,21,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,15th February 2016,12th February 2016,6,21,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,15th February 2016,12th February 2016,6,21,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,15th February 2016,12th February 2016,6,21,329
+Confirmed,Central America,HND,Honduras,Americas,7961680,15th February 2016,12th February 2016,6,21,2
+Deaths,Central America,HND,Honduras,Americas,7961680,15th February 2016,12th February 2016,6,21,0
+Suspected,Central America,HND,Honduras,Americas,7961680,15th February 2016,12th February 2016,6,21,4590
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,15th February 2016,12th February 2016,6,21,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,15th February 2016,12th February 2016,6,21,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,15th February 2016,12th February 2016,6,21,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,15th February 2016,12th February 2016,6,21,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,15th February 2016,12th February 2016,6,21,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,15th February 2016,12th February 2016,6,21,3940
+Confirmed,North America,MEX,Mexico,Americas,125385833,15th February 2016,12th February 2016,6,21,65
+Deaths,North America,MEX,Mexico,Americas,125385833,15th February 2016,12th February 2016,6,21,0
+Suspected,North America,MEX,Mexico,Americas,125385833,15th February 2016,12th February 2016,6,21,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,15th February 2016,12th February 2016,6,21,47
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,15th February 2016,12th February 2016,6,21,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,15th February 2016,12th February 2016,6,21,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,15th February 2016,12th February 2016,6,21,42
+Deaths,Central America,PAN,Panama,Americas,3867535,15th February 2016,12th February 2016,6,21,0
+Suspected,Central America,PAN,Panama,Americas,3867535,15th February 2016,12th February 2016,6,21,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,15th February 2016,12th February 2016,6,21,6
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,15th February 2016,12th February 2016,6,21,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,15th February 2016,12th February 2016,6,21,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,15th February 2016,12th February 2016,6,21,30
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,15th February 2016,12th February 2016,6,21,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,15th February 2016,12th February 2016,6,21,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,15th February 2016,12th February 2016,6,21,1
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,15th February 2016,12th February 2016,6,21,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,15th February 2016,12th February 2016,6,21,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,15th February 2016,12th February 2016,6,21,6
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,15th February 2016,12th February 2016,6,21,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,15th February 2016,12th February 2016,6,21,1097
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,15th February 2016,12th February 2016,6,21,1
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,15th February 2016,12th February 2016,6,21,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,15th February 2016,12th February 2016,6,21,0
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,15th February 2016,12th February 2016,6,21,4
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,15th February 2016,12th February 2016,6,21,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,15th February 2016,12th February 2016,6,21,4696
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,23rd Ferbruary 2016,18th February 2016,7,22,4
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,23rd Ferbruary 2016,18th February 2016,7,22,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,23rd Ferbruary 2016,18th February 2016,7,22,1
+Deaths,Andean,BOL,Bolivia,Americas,10561887,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,23rd Ferbruary 2016,18th February 2016,7,22,1
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,23rd Ferbruary 2016,18th February 2016,7,22,534
+Deaths,South Cone,BRA,Brazil,Americas,206077898,23rd Ferbruary 2016,18th February 2016,7,22,4
+Suspected,South Cone,BRA,Brazil,Americas,206077898,23rd Ferbruary 2016,18th February 2016,7,22,72062
+Confirmed,Andean,COL,Colombia,Americas,47791393,23rd Ferbruary 2016,18th February 2016,7,22,1504
+Deaths,Andean,COL,Colombia,Americas,47791393,23rd Ferbruary 2016,18th February 2016,7,22,3
+Suspected,Andean,COL,Colombia,Americas,47791393,23rd Ferbruary 2016,18th February 2016,7,22,30051
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,23rd Ferbruary 2016,18th February 2016,7,22,1
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,23rd Ferbruary 2016,18th February 2016,7,22,1
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,23rd Ferbruary 2016,18th February 2016,7,22,10
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,23rd Ferbruary 2016,18th February 2016,7,22,25
+Deaths,Andean,ECU,Ecuador,Americas,15902916,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,23rd Ferbruary 2016,18th February 2016,7,22,3
+Deaths,Central America,SLV,El Salvador,Americas,6107706,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,23rd Ferbruary 2016,18th February 2016,7,22,7923
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,23rd Ferbruary 2016,18th February 2016,7,22,99
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,23rd Ferbruary 2016,18th February 2016,7,22,790
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,23rd Ferbruary 2016,18th February 2016,7,22,25
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,23rd Ferbruary 2016,18th February 2016,7,22,221
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,23rd Ferbruary 2016,18th February 2016,7,22,105
+Deaths,Central America,GTM,Guatemala,Americas,16015494,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,23rd Ferbruary 2016,18th February 2016,7,22,278
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,23rd Ferbruary 2016,18th February 2016,7,22,1
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,23rd Ferbruary 2016,18th February 2016,7,22,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,23rd Ferbruary 2016,18th February 2016,7,22,329
+Confirmed,Central America,HND,Honduras,Americas,7961680,23rd Ferbruary 2016,18th February 2016,7,22,2
+Deaths,Central America,HND,Honduras,Americas,7961680,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Central America,HND,Honduras,Americas,7961680,23rd Ferbruary 2016,18th February 2016,7,22,4590
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,23rd Ferbruary 2016,18th February 2016,7,22,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,23rd Ferbruary 2016,18th February 2016,7,22,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,23rd Ferbruary 2016,18th February 2016,7,22,6050
+Confirmed,North America,MEX,Mexico,Americas,125385833,23rd Ferbruary 2016,18th February 2016,7,22,80
+Deaths,North America,MEX,Mexico,Americas,125385833,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,North America,MEX,Mexico,Americas,125385833,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,23rd Ferbruary 2016,18th February 2016,7,22,66
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,23rd Ferbruary 2016,18th February 2016,7,22,60
+Deaths,Central America,PAN,Panama,Americas,3867535,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Central America,PAN,Panama,Americas,3867535,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,23rd Ferbruary 2016,18th February 2016,7,22,6
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,23rd Ferbruary 2016,18th February 2016,7,22,30
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,23rd Ferbruary 2016,18th February 2016,7,22,7
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,23rd Ferbruary 2016,18th February 2016,7,22,6
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,23rd Ferbruary 2016,18th February 2016,7,22,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,23rd Ferbruary 2016,18th February 2016,7,22,1097
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,23rd Ferbruary 2016,18th February 2016,7,22,1
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,23rd Ferbruary 2016,18th February 2016,7,22,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,23rd Ferbruary 2016,18th February 2016,7,22,0
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,23rd Ferbruary 2016,18th February 2016,7,22,4
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,23rd Ferbruary 2016,18th February 2016,7,22,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,23rd Ferbruary 2016,18th February 2016,7,22,4696
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,1st March 2016,25th February 2016,8,23,4
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,1st March 2016,25th February 2016,8,23,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,1st March 2016,25th February 2016,8,23,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,1st March 2016,25th February 2016,8,23,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,1st March 2016,25th February 2016,8,23,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,1st March 2016,25th February 2016,8,23,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,1st March 2016,25th February 2016,8,23,1
+Deaths,Andean,BOL,Bolivia,Americas,10561887,1st March 2016,25th February 2016,8,23,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,1st March 2016,25th February 2016,8,23,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,1st March 2016,25th February 2016,8,23,1
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,1st March 2016,25th February 2016,8,23,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,1st March 2016,25th February 2016,8,23,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,1st March 2016,25th February 2016,8,23,534
+Deaths,South Cone,BRA,Brazil,Americas,206077898,1st March 2016,25th February 2016,8,23,4
+Suspected,South Cone,BRA,Brazil,Americas,206077898,1st March 2016,25th February 2016,8,23,72062
+Confirmed,Andean,COL,Colombia,Americas,47791393,1st March 2016,25th February 2016,8,23,1612
+Deaths,Andean,COL,Colombia,Americas,47791393,1st March 2016,25th February 2016,8,23,3
+Suspected,Andean,COL,Colombia,Americas,47791393,1st March 2016,25th February 2016,8,23,35399
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,1st March 2016,25th February 2016,8,23,3
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,1st March 2016,25th February 2016,8,23,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,1st March 2016,25th February 2016,8,23,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,1st March 2016,25th February 2016,8,23,1
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,1st March 2016,25th February 2016,8,23,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,1st March 2016,25th February 2016,8,23,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,1st March 2016,25th February 2016,8,23,18
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,1st March 2016,25th February 2016,8,23,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,1st March 2016,25th February 2016,8,23,305
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,1st March 2016,25th February 2016,8,23,25
+Deaths,Andean,ECU,Ecuador,Americas,15902916,1st March 2016,25th February 2016,8,23,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,1st March 2016,25th February 2016,8,23,0
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,1st March 2016,25th February 2016,8,23,3
+Deaths,Central America,SLV,El Salvador,Americas,6107706,1st March 2016,25th February 2016,8,23,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,1st March 2016,25th February 2016,8,23,8584
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,1st March 2016,25th February 2016,8,23,99
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,1st March 2016,25th February 2016,8,23,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,1st March 2016,25th February 2016,8,23,790
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,1st March 2016,25th February 2016,8,23,25
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,1st March 2016,25th February 2016,8,23,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,1st March 2016,25th February 2016,8,23,221
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,1st March 2016,25th February 2016,8,23,105
+Deaths,Central America,GTM,Guatemala,Americas,16015494,1st March 2016,25th February 2016,8,23,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,1st March 2016,25th February 2016,8,23,278
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,1st March 2016,25th February 2016,8,23,1
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,1st March 2016,25th February 2016,8,23,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,1st March 2016,25th February 2016,8,23,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,1st March 2016,25th February 2016,8,23,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,1st March 2016,25th February 2016,8,23,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,1st March 2016,25th February 2016,8,23,329
+Confirmed,Central America,HND,Honduras,Americas,7961680,1st March 2016,25th February 2016,8,23,2
+Deaths,Central America,HND,Honduras,Americas,7961680,1st March 2016,25th February 2016,8,23,0
+Suspected,Central America,HND,Honduras,Americas,7961680,1st March 2016,25th February 2016,8,23,4590
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,1st March 2016,25th February 2016,8,23,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,1st March 2016,25th February 2016,8,23,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,1st March 2016,25th February 2016,8,23,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,1st March 2016,25th February 2016,8,23,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,1st March 2016,25th February 2016,8,23,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,1st March 2016,25th February 2016,8,23,6050
+Confirmed,North America,MEX,Mexico,Americas,125385833,1st March 2016,25th February 2016,8,23,93
+Deaths,North America,MEX,Mexico,Americas,125385833,1st March 2016,25th February 2016,8,23,0
+Suspected,North America,MEX,Mexico,Americas,125385833,1st March 2016,25th February 2016,8,23,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,1st March 2016,25th February 2016,8,23,66
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,1st March 2016,25th February 2016,8,23,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,1st March 2016,25th February 2016,8,23,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,1st March 2016,25th February 2016,8,23,86
+Deaths,Central America,PAN,Panama,Americas,3867535,1st March 2016,25th February 2016,8,23,0
+Suspected,Central America,PAN,Panama,Americas,3867535,1st March 2016,25th February 2016,8,23,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,1st March 2016,25th February 2016,8,23,6
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,1st March 2016,25th February 2016,8,23,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,1st March 2016,25th February 2016,8,23,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,1st March 2016,25th February 2016,8,23,30
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,1st March 2016,25th February 2016,8,23,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,1st March 2016,25th February 2016,8,23,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,1st March 2016,25th February 2016,8,23,1
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,1st March 2016,25th February 2016,8,23,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,1st March 2016,25th February 2016,8,23,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,1st March 2016,25th February 2016,8,23,7
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,1st March 2016,25th February 2016,8,23,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,1st March 2016,25th February 2016,8,23,0
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,1st March 2016,25th February 2016,8,23,2
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,1st March 2016,25th February 2016,8,23,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,1st March 2016,25th February 2016,8,23,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,1st March 2016,25th February 2016,8,23,6
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,1st March 2016,25th February 2016,8,23,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,1st March 2016,25th February 2016,8,23,1097
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,1st March 2016,25th February 2016,8,23,1
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,1st March 2016,25th February 2016,8,23,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,1st March 2016,25th February 2016,8,23,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,1st March 2016,25th February 2016,8,23,4
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,1st March 2016,25th February 2016,8,23,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,1st March 2016,25th February 2016,8,23,59
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,1st March 2016,25th February 2016,8,23,4
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,1st March 2016,25th February 2016,8,23,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,1st March 2016,25th February 2016,8,23,4696
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,8th March 2016,3rd March 2016,9,24,4
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,8th March 2016,3rd March 2016,9,24,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,8th March 2016,3rd March 2016,9,24,9
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,8th March 2016,3rd March 2016,9,24,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,8th March 2016,3rd March 2016,9,24,277
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,8th March 2016,3rd March 2016,9,24,1
+Deaths,Andean,BOL,Bolivia,Americas,10561887,8th March 2016,3rd March 2016,9,24,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,8th March 2016,3rd March 2016,9,24,1
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,8th March 2016,3rd March 2016,9,24,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,8th March 2016,3rd March 2016,9,24,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,8th March 2016,3rd March 2016,9,24,534
+Deaths,South Cone,BRA,Brazil,Americas,206077898,8th March 2016,3rd March 2016,9,24,4
+Suspected,South Cone,BRA,Brazil,Americas,206077898,8th March 2016,3rd March 2016,9,24,72062
+Confirmed,Andean,COL,Colombia,Americas,47791393,8th March 2016,3rd March 2016,9,24,1612
+Deaths,Andean,COL,Colombia,Americas,47791393,8th March 2016,3rd March 2016,9,24,3
+Suspected,Andean,COL,Colombia,Americas,47791393,8th March 2016,3rd March 2016,9,24,41094
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,8th March 2016,3rd March 2016,9,24,3
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,8th March 2016,3rd March 2016,9,24,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,8th March 2016,3rd March 2016,9,24,1
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,8th March 2016,3rd March 2016,9,24,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,8th March 2016,3rd March 2016,9,24,18
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,8th March 2016,3rd March 2016,9,24,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,8th March 2016,3rd March 2016,9,24,395
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,8th March 2016,3rd March 2016,9,24,40
+Deaths,Andean,ECU,Ecuador,Americas,15902916,8th March 2016,3rd March 2016,9,24,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,8th March 2016,3rd March 2016,9,24,115
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,8th March 2016,3rd March 2016,9,24,3
+Deaths,Central America,SLV,El Salvador,Americas,6107706,8th March 2016,3rd March 2016,9,24,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,8th March 2016,3rd March 2016,9,24,8959
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,8th March 2016,3rd March 2016,9,24,102
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,8th March 2016,3rd March 2016,9,24,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,8th March 2016,3rd March 2016,9,24,1030
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,8th March 2016,3rd March 2016,9,24,35
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,8th March 2016,3rd March 2016,9,24,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,8th March 2016,3rd March 2016,9,24,389
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,8th March 2016,3rd March 2016,9,24,105
+Deaths,Central America,GTM,Guatemala,Americas,16015494,8th March 2016,3rd March 2016,9,24,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,8th March 2016,3rd March 2016,9,24,278
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,8th March 2016,3rd March 2016,9,24,1
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,8th March 2016,3rd March 2016,9,24,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,8th March 2016,3rd March 2016,9,24,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,8th March 2016,3rd March 2016,9,24,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,8th March 2016,3rd March 2016,9,24,329
+Confirmed,Central America,HND,Honduras,Americas,7961680,8th March 2016,3rd March 2016,9,24,2
+Deaths,Central America,HND,Honduras,Americas,7961680,8th March 2016,3rd March 2016,9,24,0
+Suspected,Central America,HND,Honduras,Americas,7961680,8th March 2016,3rd March 2016,9,24,4590
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,8th March 2016,3rd March 2016,9,24,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,8th March 2016,3rd March 2016,9,24,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,8th March 2016,3rd March 2016,9,24,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,8th March 2016,3rd March 2016,9,24,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,8th March 2016,3rd March 2016,9,24,7600
+Confirmed,North America,MEX,Mexico,Americas,125385833,8th March 2016,3rd March 2016,9,24,121
+Deaths,North America,MEX,Mexico,Americas,125385833,8th March 2016,3rd March 2016,9,24,0
+Suspected,North America,MEX,Mexico,Americas,125385833,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,8th March 2016,3rd March 2016,9,24,92
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,8th March 2016,3rd March 2016,9,24,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,8th March 2016,3rd March 2016,9,24,106
+Deaths,Central America,PAN,Panama,Americas,3867535,8th March 2016,3rd March 2016,9,24,0
+Suspected,Central America,PAN,Panama,Americas,3867535,8th March 2016,3rd March 2016,9,24,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,8th March 2016,3rd March 2016,9,24,6
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,8th March 2016,3rd March 2016,9,24,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,8th March 2016,3rd March 2016,9,24,102
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,8th March 2016,3rd March 2016,9,24,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,8th March 2016,3rd March 2016,9,24,1
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,8th March 2016,3rd March 2016,9,24,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,8th March 2016,3rd March 2016,9,24,11
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,8th March 2016,3rd March 2016,9,24,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,8th March 2016,3rd March 2016,9,24,58
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,8th March 2016,3rd March 2016,9,24,2
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,8th March 2016,3rd March 2016,9,24,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,8th March 2016,3rd March 2016,9,24,2
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,8th March 2016,3rd March 2016,9,24,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,8th March 2016,3rd March 2016,9,24,2352
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,8th March 2016,3rd March 2016,9,24,1
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,8th March 2016,3rd March 2016,9,24,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,8th March 2016,3rd March 2016,9,24,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,8th March 2016,3rd March 2016,9,24,6
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,8th March 2016,3rd March 2016,9,24,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,8th March 2016,3rd March 2016,9,24,66
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,8th March 2016,3rd March 2016,9,24,4
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,8th March 2016,3rd March 2016,9,24,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,8th March 2016,3rd March 2016,9,24,4696
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,15th March 2016,10th March 2016,10,25,4
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,15th March 2016,10th March 2016,10,25,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,15th March 2016,10th March 2016,10,25,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,15th March 2016,10th March 2016,10,25,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,15th March 2016,10th March 2016,10,25,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,15th March 2016,10th March 2016,10,25,316
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,15th March 2016,10th March 2016,10,25,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,15th March 2016,10th March 2016,10,25,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,15th March 2016,10th March 2016,10,25,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,15th March 2016,10th March 2016,10,25,1
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,15th March 2016,10th March 2016,10,25,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,15th March 2016,10th March 2016,10,25,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,15th March 2016,10th March 2016,10,25,534
+Deaths,South Cone,BRA,Brazil,Americas,206077898,15th March 2016,10th March 2016,10,25,4
+Suspected,South Cone,BRA,Brazil,Americas,206077898,15th March 2016,10th March 2016,10,25,72062
+Confirmed,Andean,COL,Colombia,Americas,47791393,15th March 2016,10th March 2016,10,25,2090
+Deaths,Andean,COL,Colombia,Americas,47791393,15th March 2016,10th March 2016,10,25,3
+Suspected,Andean,COL,Colombia,Americas,47791393,15th March 2016,10th March 2016,10,25,45681
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,15th March 2016,10th March 2016,10,25,8
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,15th March 2016,10th March 2016,10,25,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,15th March 2016,10th March 2016,10,25,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,15th March 2016,10th March 2016,10,25,1
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,15th March 2016,10th March 2016,10,25,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,15th March 2016,10th March 2016,10,25,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,15th March 2016,10th March 2016,10,25,18
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,15th March 2016,10th March 2016,10,25,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,15th March 2016,10th March 2016,10,25,555
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,15th March 2016,10th March 2016,10,25,66
+Deaths,Andean,ECU,Ecuador,Americas,15902916,15th March 2016,10th March 2016,10,25,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,15th March 2016,10th March 2016,10,25,93
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,15th March 2016,10th March 2016,10,25,3
+Deaths,Central America,SLV,El Salvador,Americas,6107706,15th March 2016,10th March 2016,10,25,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,15th March 2016,10th March 2016,10,25,9456
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,15th March 2016,10th March 2016,10,25,118
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,15th March 2016,10th March 2016,10,25,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,15th March 2016,10th March 2016,10,25,1405
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,15th March 2016,10th March 2016,10,25,66
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,15th March 2016,10th March 2016,10,25,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,15th March 2016,10th March 2016,10,25,474
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,15th March 2016,10th March 2016,10,25,105
+Deaths,Central America,GTM,Guatemala,Americas,16015494,15th March 2016,10th March 2016,10,25,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,15th March 2016,10th March 2016,10,25,278
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,15th March 2016,10th March 2016,10,25,1
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,15th March 2016,10th March 2016,10,25,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,15th March 2016,10th March 2016,10,25,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,15th March 2016,10th March 2016,10,25,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,15th March 2016,10th March 2016,10,25,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,15th March 2016,10th March 2016,10,25,329
+Confirmed,Central America,HND,Honduras,Americas,7961680,15th March 2016,10th March 2016,10,25,2
+Deaths,Central America,HND,Honduras,Americas,7961680,15th March 2016,10th March 2016,10,25,0
+Suspected,Central America,HND,Honduras,Americas,7961680,15th March 2016,10th March 2016,10,25,12807
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,15th March 2016,10th March 2016,10,25,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,15th March 2016,10th March 2016,10,25,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,15th March 2016,10th March 2016,10,25,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,15th March 2016,10th March 2016,10,25,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,15th March 2016,10th March 2016,10,25,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,15th March 2016,10th March 2016,10,25,9240
+Confirmed,North America,MEX,Mexico,Americas,125385833,15th March 2016,10th March 2016,10,25,143
+Deaths,North America,MEX,Mexico,Americas,125385833,15th March 2016,10th March 2016,10,25,0
+Suspected,North America,MEX,Mexico,Americas,125385833,15th March 2016,10th March 2016,10,25,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,15th March 2016,10th March 2016,10,25,93
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,15th March 2016,10th March 2016,10,25,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,15th March 2016,10th March 2016,10,25,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,15th March 2016,10th March 2016,10,25,112
+Deaths,Central America,PAN,Panama,Americas,3867535,15th March 2016,10th March 2016,10,25,0
+Suspected,Central America,PAN,Panama,Americas,3867535,15th March 2016,10th March 2016,10,25,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,15th March 2016,10th March 2016,10,25,6
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,15th March 2016,10th March 2016,10,25,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,15th March 2016,10th March 2016,10,25,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,15th March 2016,10th March 2016,10,25,102
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,15th March 2016,10th March 2016,10,25,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,15th March 2016,10th March 2016,10,25,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,15th March 2016,10th March 2016,10,25,1
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,15th March 2016,10th March 2016,10,25,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,15th March 2016,10th March 2016,10,25,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,15th March 2016,10th March 2016,10,25,17
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,15th March 2016,10th March 2016,10,25,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,15th March 2016,10th March 2016,10,25,72
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,15th March 2016,10th March 2016,10,25,2
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,15th March 2016,10th March 2016,10,25,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,15th March 2016,10th March 2016,10,25,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,15th March 2016,10th March 2016,10,25,2
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,15th March 2016,10th March 2016,10,25,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,15th March 2016,10th March 2016,10,25,2352
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,15th March 2016,10th March 2016,10,25,3
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,15th March 2016,10th March 2016,10,25,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,15th March 2016,10th March 2016,10,25,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,15th March 2016,10th March 2016,10,25,7
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,15th March 2016,10th March 2016,10,25,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,15th March 2016,10th March 2016,10,25,68
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,15th March 2016,10th March 2016,10,25,0
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,15th March 2016,10th March 2016,10,25,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,15th March 2016,10th March 2016,10,25,15495
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,22nd March 2016,17th March 2016,11,26,4
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,22nd March 2016,17th March 2016,11,26,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,22nd March 2016,17th March 2016,11,26,316
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,22nd March 2016,17th March 2016,11,26,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,22nd March 2016,17th March 2016,11,26,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,22nd March 2016,17th March 2016,11,26,1
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,22nd March 2016,17th March 2016,11,26,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,22nd March 2016,17th March 2016,11,26,534
+Deaths,South Cone,BRA,Brazil,Americas,206077898,22nd March 2016,17th March 2016,11,26,4
+Suspected,South Cone,BRA,Brazil,Americas,206077898,22nd March 2016,17th March 2016,11,26,72062
+Confirmed,Andean,COL,Colombia,Americas,47791393,22nd March 2016,17th March 2016,11,26,2090
+Deaths,Andean,COL,Colombia,Americas,47791393,22nd March 2016,17th March 2016,11,26,3
+Suspected,Andean,COL,Colombia,Americas,47791393,22nd March 2016,17th March 2016,11,26,49383
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,22nd March 2016,17th March 2016,11,26,8
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,22nd March 2016,17th March 2016,11,26,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,22nd March 2016,17th March 2016,11,26,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,22nd March 2016,17th March 2016,11,26,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,22nd March 2016,17th March 2016,11,26,1
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,22nd March 2016,17th March 2016,11,26,1
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,22nd March 2016,17th March 2016,11,26,18
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,22nd March 2016,17th March 2016,11,26,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,22nd March 2016,17th March 2016,11,26,670
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,22nd March 2016,17th March 2016,11,26,53
+Deaths,Andean,ECU,Ecuador,Americas,15902916,22nd March 2016,17th March 2016,11,26,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,22nd March 2016,17th March 2016,11,26,3
+Deaths,Central America,SLV,El Salvador,Americas,6107706,22nd March 2016,17th March 2016,11,26,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,22nd March 2016,17th March 2016,11,26,9597
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,22nd March 2016,17th March 2016,11,26,142
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,22nd March 2016,17th March 2016,11,26,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,22nd March 2016,17th March 2016,11,26,1805
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,22nd March 2016,17th March 2016,11,26,77
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,22nd March 2016,17th March 2016,11,26,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,22nd March 2016,17th March 2016,11,26,717
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,22nd March 2016,17th March 2016,11,26,210
+Deaths,Central America,GTM,Guatemala,Americas,16015494,22nd March 2016,17th March 2016,11,26,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,22nd March 2016,17th March 2016,11,26,756
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,22nd March 2016,17th March 2016,11,26,1
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,22nd March 2016,17th March 2016,11,26,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,22nd March 2016,17th March 2016,11,26,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,22nd March 2016,17th March 2016,11,26,329
+Confirmed,Central America,HND,Honduras,Americas,7961680,22nd March 2016,17th March 2016,11,26,2
+Deaths,Central America,HND,Honduras,Americas,7961680,22nd March 2016,17th March 2016,11,26,0
+Suspected,Central America,HND,Honduras,Americas,7961680,22nd March 2016,17th March 2016,11,26,15849
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,22nd March 2016,17th March 2016,11,26,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,22nd March 2016,17th March 2016,11,26,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,22nd March 2016,17th March 2016,11,26,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,22nd March 2016,17th March 2016,11,26,10950
+Confirmed,North America,MEX,Mexico,Americas,125385833,22nd March 2016,17th March 2016,11,26,151
+Deaths,North America,MEX,Mexico,Americas,125385833,22nd March 2016,17th March 2016,11,26,0
+Suspected,North America,MEX,Mexico,Americas,125385833,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,22nd March 2016,17th March 2016,11,26,119
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,22nd March 2016,17th March 2016,11,26,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,22nd March 2016,17th March 2016,11,26,117
+Deaths,Central America,PAN,Panama,Americas,3867535,22nd March 2016,17th March 2016,11,26,0
+Suspected,Central America,PAN,Panama,Americas,3867535,22nd March 2016,17th March 2016,11,26,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,22nd March 2016,17th March 2016,11,26,7
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,22nd March 2016,17th March 2016,11,26,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,22nd March 2016,17th March 2016,11,26,102
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,22nd March 2016,17th March 2016,11,26,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,22nd March 2016,17th March 2016,11,26,1
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,22nd March 2016,17th March 2016,11,26,21
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,22nd March 2016,17th March 2016,11,26,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,22nd March 2016,17th March 2016,11,26,129
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,22nd March 2016,17th March 2016,11,26,2
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,22nd March 2016,17th March 2016,11,26,2
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,22nd March 2016,17th March 2016,11,26,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,22nd March 2016,17th March 2016,11,26,2352
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,22nd March 2016,17th March 2016,11,26,4
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,22nd March 2016,17th March 2016,11,26,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,22nd March 2016,17th March 2016,11,26,11
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,22nd March 2016,17th March 2016,11,26,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,22nd March 2016,17th March 2016,11,26,83
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,22nd March 2016,17th March 2016,11,26,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,22nd March 2016,17th March 2016,11,26,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,22nd March 2016,17th March 2016,11,26,15495
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,29th March 2016,24th March 2016,12,27,4
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,29th March 2016,24th March 2016,12,27,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,29th March 2016,24th March 2016,12,27,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,29th March 2016,24th March 2016,12,27,316
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,29th March 2016,24th March 2016,12,27,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,29th March 2016,24th March 2016,12,27,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,29th March 2016,24th March 2016,12,27,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,29th March 2016,24th March 2016,12,27,1
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,29th March 2016,24th March 2016,12,27,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,29th March 2016,24th March 2016,12,27,534
+Deaths,South Cone,BRA,Brazil,Americas,206077898,29th March 2016,24th March 2016,12,27,4
+Suspected,South Cone,BRA,Brazil,Americas,206077898,29th March 2016,24th March 2016,12,27,72062
+Confirmed,Andean,COL,Colombia,Americas,47791393,29th March 2016,24th March 2016,12,27,2355
+Deaths,Andean,COL,Colombia,Americas,47791393,29th March 2016,24th March 2016,12,27,0
+Suspected,Andean,COL,Colombia,Americas,47791393,29th March 2016,24th March 2016,12,27,53369
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,29th March 2016,24th March 2016,12,27,8
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,29th March 2016,24th March 2016,12,27,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,29th March 2016,24th March 2016,12,27,0
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,29th March 2016,24th March 2016,12,27,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,29th March 2016,24th March 2016,12,27,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,29th March 2016,24th March 2016,12,27,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,29th March 2016,24th March 2016,12,27,1
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,29th March 2016,24th March 2016,12,27,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,29th March 2016,24th March 2016,12,27,1
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,29th March 2016,24th March 2016,12,27,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,29th March 2016,24th March 2016,12,27,18
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,29th March 2016,24th March 2016,12,27,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,29th March 2016,24th March 2016,12,27,822
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,29th March 2016,24th March 2016,12,27,53
+Deaths,Andean,ECU,Ecuador,Americas,15902916,29th March 2016,24th March 2016,12,27,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,29th March 2016,24th March 2016,12,27,0
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,29th March 2016,24th March 2016,12,27,3
+Deaths,Central America,SLV,El Salvador,Americas,6107706,29th March 2016,24th March 2016,12,27,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,29th March 2016,24th March 2016,12,27,9597
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,29th March 2016,24th March 2016,12,27,190
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,29th March 2016,24th March 2016,12,27,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,29th March 2016,24th March 2016,12,27,2265
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,29th March 2016,24th March 2016,12,27,104
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,29th March 2016,24th March 2016,12,27,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,29th March 2016,24th March 2016,12,27,805
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,29th March 2016,24th March 2016,12,27,261
+Deaths,Central America,GTM,Guatemala,Americas,16015494,29th March 2016,24th March 2016,12,27,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,29th March 2016,24th March 2016,12,27,915
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,29th March 2016,24th March 2016,12,27,1
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,29th March 2016,24th March 2016,12,27,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,29th March 2016,24th March 2016,12,27,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,29th March 2016,24th March 2016,12,27,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,29th March 2016,24th March 2016,12,27,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,29th March 2016,24th March 2016,12,27,2
+Deaths,Central America,HND,Honduras,Americas,7961680,29th March 2016,24th March 2016,12,27,0
+Suspected,Central America,HND,Honduras,Americas,7961680,29th March 2016,24th March 2016,12,27,16536
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,29th March 2016,24th March 2016,12,27,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,29th March 2016,24th March 2016,12,27,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,29th March 2016,24th March 2016,12,27,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,29th March 2016,24th March 2016,12,27,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,29th March 2016,24th March 2016,12,27,10950
+Confirmed,North America,MEX,Mexico,Americas,125385833,29th March 2016,24th March 2016,12,27,151
+Deaths,North America,MEX,Mexico,Americas,125385833,29th March 2016,24th March 2016,12,27,0
+Suspected,North America,MEX,Mexico,Americas,125385833,29th March 2016,24th March 2016,12,27,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,29th March 2016,24th March 2016,12,27,119
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,29th March 2016,24th March 2016,12,27,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,29th March 2016,24th March 2016,12,27,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,29th March 2016,24th March 2016,12,27,134
+Deaths,Central America,PAN,Panama,Americas,3867535,29th March 2016,24th March 2016,12,27,0
+Suspected,Central America,PAN,Panama,Americas,3867535,29th March 2016,24th March 2016,12,27,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,29th March 2016,24th March 2016,12,27,7
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,29th March 2016,24th March 2016,12,27,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,29th March 2016,24th March 2016,12,27,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,29th March 2016,24th March 2016,12,27,249
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,29th March 2016,24th March 2016,12,27,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,29th March 2016,24th March 2016,12,27,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,29th March 2016,24th March 2016,12,27,1
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,29th March 2016,24th March 2016,12,27,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,29th March 2016,24th March 2016,12,27,21
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,29th March 2016,24th March 2016,12,27,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,29th March 2016,24th March 2016,12,27,129
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,29th March 2016,24th March 2016,12,27,2
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,29th March 2016,24th March 2016,12,27,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,29th March 2016,24th March 2016,12,27,2
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,29th March 2016,24th March 2016,12,27,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,29th March 2016,24th March 2016,12,27,2352
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,29th March 2016,24th March 2016,12,27,4
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,29th March 2016,24th March 2016,12,27,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,29th March 2016,24th March 2016,12,27,13
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,29th March 2016,24th March 2016,12,27,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,29th March 2016,24th March 2016,12,27,83
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,29th March 2016,24th March 2016,12,27,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,29th March 2016,24th March 2016,12,27,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,29th March 2016,24th March 2016,12,27,15495
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,5th April 2016,31st March 2016,13,28,4
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,5th April 2016,31st March 2016,13,28,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,5th April 2016,31st March 2016,13,28,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,5th April 2016,31st March 2016,13,28,316
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,5th April 2016,31st March 2016,13,28,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,5th April 2016,31st March 2016,13,28,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,5th April 2016,31st March 2016,13,28,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,5th April 2016,31st March 2016,13,28,1
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,5th April 2016,31st March 2016,13,28,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,5th April 2016,31st March 2016,13,28,534
+Deaths,South Cone,BRA,Brazil,Americas,206077898,5th April 2016,31st March 2016,13,28,4
+Suspected,South Cone,BRA,Brazil,Americas,206077898,5th April 2016,31st March 2016,13,28,72062
+Confirmed,Andean,COL,Colombia,Americas,47791393,5th April 2016,31st March 2016,13,28,2361
+Deaths,Andean,COL,Colombia,Americas,47791393,5th April 2016,31st March 2016,13,28,0
+Suspected,Andean,COL,Colombia,Americas,47791393,5th April 2016,31st March 2016,13,28,56477
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,5th April 2016,31st March 2016,13,28,8
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,5th April 2016,31st March 2016,13,28,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,5th April 2016,31st March 2016,13,28,0
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,5th April 2016,31st March 2016,13,28,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,5th April 2016,31st March 2016,13,28,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,5th April 2016,31st March 2016,13,28,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,5th April 2016,31st March 2016,13,28,1
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,5th April 2016,31st March 2016,13,28,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,5th April 2016,31st March 2016,13,28,1
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,5th April 2016,31st March 2016,13,28,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,5th April 2016,31st March 2016,13,28,18
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,5th April 2016,31st March 2016,13,28,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,5th April 2016,31st March 2016,13,28,991
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,5th April 2016,31st March 2016,13,28,63
+Deaths,Andean,ECU,Ecuador,Americas,15902916,5th April 2016,31st March 2016,13,28,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,5th April 2016,31st March 2016,13,28,0
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,5th April 2016,31st March 2016,13,28,3
+Deaths,Central America,SLV,El Salvador,Americas,6107706,5th April 2016,31st March 2016,13,28,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,5th April 2016,31st March 2016,13,28,9597
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,5th April 2016,31st March 2016,13,28,216
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,5th April 2016,31st March 2016,13,28,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,5th April 2016,31st March 2016,13,28,2770
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,5th April 2016,31st March 2016,13,28,151
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,5th April 2016,31st March 2016,13,28,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,5th April 2016,31st March 2016,13,28,794
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,5th April 2016,31st March 2016,13,28,261
+Deaths,Central America,GTM,Guatemala,Americas,16015494,5th April 2016,31st March 2016,13,28,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,5th April 2016,31st March 2016,13,28,915
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,5th April 2016,31st March 2016,13,28,1
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,5th April 2016,31st March 2016,13,28,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,5th April 2016,31st March 2016,13,28,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,5th April 2016,31st March 2016,13,28,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,5th April 2016,31st March 2016,13,28,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,5th April 2016,31st March 2016,13,28,2
+Deaths,Central America,HND,Honduras,Americas,7961680,5th April 2016,31st March 2016,13,28,0
+Suspected,Central America,HND,Honduras,Americas,7961680,5th April 2016,31st March 2016,13,28,16536
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,5th April 2016,31st March 2016,13,28,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,5th April 2016,31st March 2016,13,28,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,5th April 2016,31st March 2016,13,28,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,5th April 2016,31st March 2016,13,28,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,5th April 2016,31st March 2016,13,28,14320
+Confirmed,North America,MEX,Mexico,Americas,125385833,5th April 2016,31st March 2016,13,28,185
+Deaths,North America,MEX,Mexico,Americas,125385833,5th April 2016,31st March 2016,13,28,0
+Suspected,North America,MEX,Mexico,Americas,125385833,5th April 2016,31st March 2016,13,28,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,5th April 2016,31st March 2016,13,28,129
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,5th April 2016,31st March 2016,13,28,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,5th April 2016,31st March 2016,13,28,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,5th April 2016,31st March 2016,13,28,141
+Deaths,Central America,PAN,Panama,Americas,3867535,5th April 2016,31st March 2016,13,28,0
+Suspected,Central America,PAN,Panama,Americas,3867535,5th April 2016,31st March 2016,13,28,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,5th April 2016,31st March 2016,13,28,7
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,5th April 2016,31st March 2016,13,28,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,5th April 2016,31st March 2016,13,28,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,5th April 2016,31st March 2016,13,28,350
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,5th April 2016,31st March 2016,13,28,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,5th April 2016,31st March 2016,13,28,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,5th April 2016,31st March 2016,13,28,1
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,5th April 2016,31st March 2016,13,28,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,5th April 2016,31st March 2016,13,28,30
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,5th April 2016,31st March 2016,13,28,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,5th April 2016,31st March 2016,13,28,154
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,5th April 2016,31st March 2016,13,28,2
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,5th April 2016,31st March 2016,13,28,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,5th April 2016,31st March 2016,13,28,2
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,5th April 2016,31st March 2016,13,28,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,5th April 2016,31st March 2016,13,28,2352
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,5th April 2016,31st March 2016,13,28,9
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,5th April 2016,31st March 2016,13,28,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,5th April 2016,31st March 2016,13,28,12
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,5th April 2016,31st March 2016,13,28,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,5th April 2016,31st March 2016,13,28,62
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,5th April 2016,31st March 2016,13,28,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,5th April 2016,31st March 2016,13,28,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,5th April 2016,31st March 2016,13,28,15495
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,12th April 2016,7th April 2016,14,29,4
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,12th April 2016,7th April 2016,14,29,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,12th April 2016,7th April 2016,14,29,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,12th April 2016,7th April 2016,14,29,316
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,12th April 2016,7th April 2016,14,29,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,12th April 2016,7th April 2016,14,29,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,12th April 2016,7th April 2016,14,29,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,12th April 2016,7th April 2016,14,29,1
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,12th April 2016,7th April 2016,14,29,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,12th April 2016,7th April 2016,14,29,534
+Deaths,South Cone,BRA,Brazil,Americas,206077898,12th April 2016,7th April 2016,14,29,4
+Suspected,South Cone,BRA,Brazil,Americas,206077898,12th April 2016,7th April 2016,14,29,72062
+Confirmed,Andean,COL,Colombia,Americas,47791393,12th April 2016,7th April 2016,14,29,2603
+Deaths,Andean,COL,Colombia,Americas,47791393,12th April 2016,7th April 2016,14,29,0
+Suspected,Andean,COL,Colombia,Americas,47791393,12th April 2016,7th April 2016,14,29,58790
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,12th April 2016,7th April 2016,14,29,8
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,12th April 2016,7th April 2016,14,29,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,12th April 2016,7th April 2016,14,29,0
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,12th April 2016,7th April 2016,14,29,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,12th April 2016,7th April 2016,14,29,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,12th April 2016,7th April 2016,14,29,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,12th April 2016,7th April 2016,14,29,1
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,12th April 2016,7th April 2016,14,29,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,12th April 2016,7th April 2016,14,29,1
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,12th April 2016,7th April 2016,14,29,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,12th April 2016,7th April 2016,14,29,55
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,12th April 2016,7th April 2016,14,29,1
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,12th April 2016,7th April 2016,14,29,1090
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,12th April 2016,7th April 2016,14,29,69
+Deaths,Andean,ECU,Ecuador,Americas,15902916,12th April 2016,7th April 2016,14,29,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,12th April 2016,7th April 2016,14,29,0
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,12th April 2016,7th April 2016,14,29,46
+Deaths,Central America,SLV,El Salvador,Americas,6107706,12th April 2016,7th April 2016,14,29,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,12th April 2016,7th April 2016,14,29,9772
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,12th April 2016,7th April 2016,14,29,299
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,12th April 2016,7th April 2016,14,29,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,12th April 2016,7th April 2016,14,29,3190
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,12th April 2016,7th April 2016,14,29,139
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,12th April 2016,7th April 2016,14,29,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,12th April 2016,7th April 2016,14,29,900
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,12th April 2016,7th April 2016,14,29,261
+Deaths,Central America,GTM,Guatemala,Americas,16015494,12th April 2016,7th April 2016,14,29,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,12th April 2016,7th April 2016,14,29,915
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,12th April 2016,7th April 2016,14,29,1
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,12th April 2016,7th April 2016,14,29,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,12th April 2016,7th April 2016,14,29,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,12th April 2016,7th April 2016,14,29,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,12th April 2016,7th April 2016,14,29,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,12th April 2016,7th April 2016,14,29,2
+Deaths,Central America,HND,Honduras,Americas,7961680,12th April 2016,7th April 2016,14,29,0
+Suspected,Central America,HND,Honduras,Americas,7961680,12th April 2016,7th April 2016,14,29,16536
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,12th April 2016,7th April 2016,14,29,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,12th April 2016,7th April 2016,14,29,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,12th April 2016,7th April 2016,14,29,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,12th April 2016,7th April 2016,14,29,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,12th April 2016,7th April 2016,14,29,15440
+Confirmed,North America,MEX,Mexico,Americas,125385833,12th April 2016,7th April 2016,14,29,201
+Deaths,North America,MEX,Mexico,Americas,125385833,12th April 2016,7th April 2016,14,29,0
+Suspected,North America,MEX,Mexico,Americas,125385833,12th April 2016,7th April 2016,14,29,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,12th April 2016,7th April 2016,14,29,131
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,12th April 2016,7th April 2016,14,29,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,12th April 2016,7th April 2016,14,29,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,12th April 2016,7th April 2016,14,29,196
+Deaths,Central America,PAN,Panama,Americas,3867535,12th April 2016,7th April 2016,14,29,0
+Suspected,Central America,PAN,Panama,Americas,3867535,12th April 2016,7th April 2016,14,29,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,12th April 2016,7th April 2016,14,29,7
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,12th April 2016,7th April 2016,14,29,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,12th April 2016,7th April 2016,14,29,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,12th April 2016,7th April 2016,14,29,372
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,12th April 2016,7th April 2016,14,29,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,12th April 2016,7th April 2016,14,29,0
+Confirmed,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,12th April 2016,7th April 2016,14,29,2
+Deaths,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,12th April 2016,7th April 2016,14,29,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,12th April 2016,7th April 2016,14,29,1
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,12th April 2016,7th April 2016,14,29,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,12th April 2016,7th April 2016,14,29,36
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,12th April 2016,7th April 2016,14,29,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,12th April 2016,7th April 2016,14,29,157
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,12th April 2016,7th April 2016,14,29,2
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,12th April 2016,7th April 2016,14,29,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,12th April 2016,7th April 2016,14,29,485
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,12th April 2016,7th April 2016,14,29,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,12th April 2016,7th April 2016,14,29,3440
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,12th April 2016,7th April 2016,14,29,9
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,12th April 2016,7th April 2016,14,29,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,12th April 2016,7th April 2016,14,29,13
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,12th April 2016,7th April 2016,14,29,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,12th April 2016,7th April 2016,14,29,42
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,12th April 2016,7th April 2016,14,29,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,12th April 2016,7th April 2016,14,29,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,12th April 2016,7th April 2016,14,29,15495
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,20th April 2016,14th April 2016,15,30,4
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,20th April 2016,14th April 2016,15,30,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,20th April 2016,14th April 2016,15,30,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,20th April 2016,14th April 2016,15,30,316
+Confirmed,Central America,BLZ,Belize,Americas,351706,20th April 2016,14th April 2016,15,30,1
+Deaths,Central America,BLZ,Belize,Americas,351706,20th April 2016,14th April 2016,15,30,0
+Suspected,Central America,BLZ,Belize,Americas,351706,20th April 2016,14th April 2016,15,30,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,20th April 2016,14th April 2016,15,30,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,20th April 2016,14th April 2016,15,30,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,20th April 2016,14th April 2016,15,30,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,20th April 2016,14th April 2016,15,30,1
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,20th April 2016,14th April 2016,15,30,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,20th April 2016,14th April 2016,15,30,534
+Deaths,South Cone,BRA,Brazil,Americas,206077898,20th April 2016,14th April 2016,15,30,4
+Suspected,South Cone,BRA,Brazil,Americas,206077898,20th April 2016,14th April 2016,15,30,72062
+Confirmed,Andean,COL,Colombia,Americas,47791393,20th April 2016,14th April 2016,15,30,3061
+Deaths,Andean,COL,Colombia,Americas,47791393,20th April 2016,14th April 2016,15,30,0
+Suspected,Andean,COL,Colombia,Americas,47791393,20th April 2016,14th April 2016,15,30,61778
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,20th April 2016,14th April 2016,15,30,8
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,20th April 2016,14th April 2016,15,30,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,20th April 2016,14th April 2016,15,30,0
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,20th April 2016,14th April 2016,15,30,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,20th April 2016,14th April 2016,15,30,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,20th April 2016,14th April 2016,15,30,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,20th April 2016,14th April 2016,15,30,1
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,20th April 2016,14th April 2016,15,30,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,20th April 2016,14th April 2016,15,30,1
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,20th April 2016,14th April 2016,15,30,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,20th April 2016,14th April 2016,15,30,56
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,20th April 2016,14th April 2016,15,30,1
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,20th April 2016,14th April 2016,15,30,1249
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,20th April 2016,14th April 2016,15,30,71
+Deaths,Andean,ECU,Ecuador,Americas,15902916,20th April 2016,14th April 2016,15,30,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,20th April 2016,14th April 2016,15,30,139
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,20th April 2016,14th April 2016,15,30,43
+Deaths,Central America,SLV,El Salvador,Americas,6107706,20th April 2016,14th April 2016,15,30,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,20th April 2016,14th April 2016,15,30,11011
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,20th April 2016,14th April 2016,15,30,355
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,20th April 2016,14th April 2016,15,30,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,20th April 2016,14th April 2016,15,30,3620
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,20th April 2016,14th April 2016,15,30,191
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,20th April 2016,14th April 2016,15,30,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,20th April 2016,14th April 2016,15,30,1090
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,20th April 2016,14th April 2016,15,30,261
+Deaths,Central America,GTM,Guatemala,Americas,16015494,20th April 2016,14th April 2016,15,30,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,20th April 2016,14th April 2016,15,30,915
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,20th April 2016,14th April 2016,15,30,1
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,20th April 2016,14th April 2016,15,30,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,20th April 2016,14th April 2016,15,30,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,20th April 2016,14th April 2016,15,30,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,20th April 2016,14th April 2016,15,30,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,20th April 2016,14th April 2016,15,30,2
+Deaths,Central America,HND,Honduras,Americas,7961680,20th April 2016,14th April 2016,15,30,0
+Suspected,Central America,HND,Honduras,Americas,7961680,20th April 2016,14th April 2016,15,30,17556
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,20th April 2016,14th April 2016,15,30,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,20th April 2016,14th April 2016,15,30,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,20th April 2016,14th April 2016,15,30,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,20th April 2016,14th April 2016,15,30,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,20th April 2016,14th April 2016,15,30,16650
+Confirmed,North America,MEX,Mexico,Americas,125385833,20th April 2016,14th April 2016,15,30,222
+Deaths,North America,MEX,Mexico,Americas,125385833,20th April 2016,14th April 2016,15,30,0
+Suspected,North America,MEX,Mexico,Americas,125385833,20th April 2016,14th April 2016,15,30,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,20th April 2016,14th April 2016,15,30,135
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,20th April 2016,14th April 2016,15,30,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,20th April 2016,14th April 2016,15,30,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,20th April 2016,14th April 2016,15,30,220
+Deaths,Central America,PAN,Panama,Americas,3867535,20th April 2016,14th April 2016,15,30,0
+Suspected,Central America,PAN,Panama,Americas,3867535,20th April 2016,14th April 2016,15,30,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,20th April 2016,14th April 2016,15,30,7
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,20th April 2016,14th April 2016,15,30,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,20th April 2016,14th April 2016,15,30,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,20th April 2016,14th April 2016,15,30,436
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,20th April 2016,14th April 2016,15,30,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,20th April 2016,14th April 2016,15,30,0
+Confirmed,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,20th April 2016,14th April 2016,15,30,2
+Deaths,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,20th April 2016,14th April 2016,15,30,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,20th April 2016,14th April 2016,15,30,1
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,20th April 2016,14th April 2016,15,30,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,20th April 2016,14th April 2016,15,30,42
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,20th April 2016,14th April 2016,15,30,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,20th April 2016,14th April 2016,15,30,160
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,20th April 2016,14th April 2016,15,30,2
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,20th April 2016,14th April 2016,15,30,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,20th April 2016,14th April 2016,15,30,485
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,20th April 2016,14th April 2016,15,30,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,20th April 2016,14th April 2016,15,30,3440
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,20th April 2016,14th April 2016,15,30,13
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,20th April 2016,14th April 2016,15,30,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,20th April 2016,14th April 2016,15,30,14
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,20th April 2016,14th April 2016,15,30,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,20th April 2016,14th April 2016,15,30,54
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,20th April 2016,14th April 2016,15,30,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,20th April 2016,14th April 2016,15,30,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,20th April 2016,14th April 2016,15,30,15495
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,26th April 2016,21st April 2016,16,31,17
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,26th April 2016,21st April 2016,16,31,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,26th April 2016,21st April 2016,16,31,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,26th April 2016,21st April 2016,16,31,316
+Confirmed,Central America,BLZ,Belize,Americas,351706,26th April 2016,21st April 2016,16,31,1
+Deaths,Central America,BLZ,Belize,Americas,351706,26th April 2016,21st April 2016,16,31,0
+Suspected,Central America,BLZ,Belize,Americas,351706,26th April 2016,21st April 2016,16,31,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,26th April 2016,21st April 2016,16,31,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,26th April 2016,21st April 2016,16,31,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,26th April 2016,21st April 2016,16,31,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,26th April 2016,21st April 2016,16,31,3
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,26th April 2016,21st April 2016,16,31,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,26th April 2016,21st April 2016,16,31,1034
+Deaths,South Cone,BRA,Brazil,Americas,206077898,26th April 2016,21st April 2016,16,31,3
+Suspected,South Cone,BRA,Brazil,Americas,206077898,26th April 2016,21st April 2016,16,31,70611
+Confirmed,Andean,COL,Colombia,Americas,47791393,26th April 2016,21st April 2016,16,31,3292
+Deaths,Andean,COL,Colombia,Americas,47791393,26th April 2016,21st April 2016,16,31,0
+Suspected,Andean,COL,Colombia,Americas,47791393,26th April 2016,21st April 2016,16,31,65338
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,26th April 2016,21st April 2016,16,31,8
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,26th April 2016,21st April 2016,16,31,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,26th April 2016,21st April 2016,16,31,0
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,26th April 2016,21st April 2016,16,31,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,26th April 2016,21st April 2016,16,31,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,26th April 2016,21st April 2016,16,31,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,26th April 2016,21st April 2016,16,31,73
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,26th April 2016,21st April 2016,16,31,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,26th April 2016,21st April 2016,16,31,5
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,26th April 2016,21st April 2016,16,31,37
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,26th April 2016,21st April 2016,16,31,56
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,26th April 2016,21st April 2016,16,31,1
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,26th April 2016,21st April 2016,16,31,1249
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,26th April 2016,21st April 2016,16,31,92
+Deaths,Andean,ECU,Ecuador,Americas,15902916,26th April 2016,21st April 2016,16,31,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,26th April 2016,21st April 2016,16,31,140
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,26th April 2016,21st April 2016,16,31,43
+Deaths,Central America,SLV,El Salvador,Americas,6107706,26th April 2016,21st April 2016,16,31,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,26th April 2016,21st April 2016,16,31,11078
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,26th April 2016,21st April 2016,16,31,411
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,26th April 2016,21st April 2016,16,31,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,26th April 2016,21st April 2016,16,31,1249
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,26th April 2016,21st April 2016,16,31,239
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,26th April 2016,21st April 2016,16,31,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,26th April 2016,21st April 2016,16,31,1335
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,26th April 2016,21st April 2016,16,31,261
+Deaths,Central America,GTM,Guatemala,Americas,16015494,26th April 2016,21st April 2016,16,31,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,26th April 2016,21st April 2016,16,31,915
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,26th April 2016,21st April 2016,16,31,6
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,26th April 2016,21st April 2016,16,31,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,26th April 2016,21st April 2016,16,31,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,26th April 2016,21st April 2016,16,31,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,26th April 2016,21st April 2016,16,31,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,26th April 2016,21st April 2016,16,31,2
+Deaths,Central America,HND,Honduras,Americas,7961680,26th April 2016,21st April 2016,16,31,0
+Suspected,Central America,HND,Honduras,Americas,7961680,26th April 2016,21st April 2016,16,31,18096
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,26th April 2016,21st April 2016,16,31,1
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,26th April 2016,21st April 2016,16,31,0
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,26th April 2016,21st April 2016,16,31,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,26th April 2016,21st April 2016,16,31,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,26th April 2016,21st April 2016,16,31,17990
+Confirmed,North America,MEX,Mexico,Americas,125385833,26th April 2016,21st April 2016,16,31,239
+Deaths,North America,MEX,Mexico,Americas,125385833,26th April 2016,21st April 2016,16,31,0
+Suspected,North America,MEX,Mexico,Americas,125385833,26th April 2016,21st April 2016,16,31,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,26th April 2016,21st April 2016,16,31,139
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,26th April 2016,21st April 2016,16,31,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,26th April 2016,21st April 2016,16,31,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,26th April 2016,21st April 2016,16,31,220
+Deaths,Central America,PAN,Panama,Americas,3867535,26th April 2016,21st April 2016,16,31,0
+Suspected,Central America,PAN,Panama,Americas,3867535,26th April 2016,21st April 2016,16,31,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,26th April 2016,21st April 2016,16,31,7
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,26th April 2016,21st April 2016,16,31,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,26th April 2016,21st April 2016,16,31,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,26th April 2016,21st April 2016,16,31,550
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,26th April 2016,21st April 2016,16,31,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,26th April 2016,21st April 2016,16,31,0
+Confirmed,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,26th April 2016,21st April 2016,16,31,2
+Deaths,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,26th April 2016,21st April 2016,16,31,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,26th April 2016,21st April 2016,16,31,1
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,26th April 2016,21st April 2016,16,31,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,26th April 2016,21st April 2016,16,31,43
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,26th April 2016,21st April 2016,16,31,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,26th April 2016,21st April 2016,16,31,175
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,26th April 2016,21st April 2016,16,31,7
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,26th April 2016,21st April 2016,16,31,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,26th April 2016,21st April 2016,16,31,527
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,26th April 2016,21st April 2016,16,31,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,26th April 2016,21st April 2016,16,31,3490
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,26th April 2016,21st April 2016,16,31,16
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,26th April 2016,21st April 2016,16,31,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,26th April 2016,21st April 2016,16,31,14
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,26th April 2016,21st April 2016,16,31,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,26th April 2016,21st April 2016,16,31,68
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,26th April 2016,21st April 2016,16,31,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,26th April 2016,21st April 2016,16,31,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,26th April 2016,21st April 2016,16,31,31224
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,3rd May 2016,28th April 2016,17,32,17
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,3rd May 2016,28th April 2016,17,32,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,3rd May 2016,28th April 2016,17,32,316
+Confirmed,Central America,BLZ,Belize,Americas,351706,3rd May 2016,28th April 2016,17,32,1
+Deaths,Central America,BLZ,Belize,Americas,351706,3rd May 2016,28th April 2016,17,32,0
+Suspected,Central America,BLZ,Belize,Americas,351706,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,3rd May 2016,28th April 2016,17,32,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,3rd May 2016,28th April 2016,17,32,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,3rd May 2016,28th April 2016,17,32,3
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,3rd May 2016,28th April 2016,17,32,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,3rd May 2016,28th April 2016,17,32,1034
+Deaths,South Cone,BRA,Brazil,Americas,206077898,3rd May 2016,28th April 2016,17,32,3
+Suspected,South Cone,BRA,Brazil,Americas,206077898,3rd May 2016,28th April 2016,17,32,91387
+Confirmed,Andean,COL,Colombia,Americas,47791393,3rd May 2016,28th April 2016,17,32,3292
+Deaths,Andean,COL,Colombia,Americas,47791393,3rd May 2016,28th April 2016,17,32,0
+Suspected,Andean,COL,Colombia,Americas,47791393,3rd May 2016,28th April 2016,17,32,68660
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,3rd May 2016,28th April 2016,17,32,11
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,3rd May 2016,28th April 2016,17,32,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,3rd May 2016,28th April 2016,17,32,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,3rd May 2016,28th April 2016,17,32,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,3rd May 2016,28th April 2016,17,32,73
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,3rd May 2016,28th April 2016,17,32,18
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,3rd May 2016,28th April 2016,17,32,43
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,3rd May 2016,28th April 2016,17,32,73
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,3rd May 2016,28th April 2016,17,32,1
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,3rd May 2016,28th April 2016,17,32,1674
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,3rd May 2016,28th April 2016,17,32,77
+Deaths,Andean,ECU,Ecuador,Americas,15902916,3rd May 2016,28th April 2016,17,32,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,3rd May 2016,28th April 2016,17,32,171
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,3rd May 2016,28th April 2016,17,32,46
+Deaths,Central America,SLV,El Salvador,Americas,6107706,3rd May 2016,28th April 2016,17,32,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,3rd May 2016,28th April 2016,17,32,11281
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,3rd May 2016,28th April 2016,17,32,483
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,3rd May 2016,28th April 2016,17,32,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,3rd May 2016,28th April 2016,17,32,4600
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,3rd May 2016,28th April 2016,17,32,306
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,3rd May 2016,28th April 2016,17,32,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,3rd May 2016,28th April 2016,17,32,1681
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,3rd May 2016,28th April 2016,17,32,261
+Deaths,Central America,GTM,Guatemala,Americas,16015494,3rd May 2016,28th April 2016,17,32,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,3rd May 2016,28th April 2016,17,32,915
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,3rd May 2016,28th April 2016,17,32,6
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,3rd May 2016,28th April 2016,17,32,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,3rd May 2016,28th April 2016,17,32,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,3rd May 2016,28th April 2016,17,32,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,3rd May 2016,28th April 2016,17,32,2
+Deaths,Central America,HND,Honduras,Americas,7961680,3rd May 2016,28th April 2016,17,32,0
+Suspected,Central America,HND,Honduras,Americas,7961680,3rd May 2016,28th April 2016,17,32,18417
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,3rd May 2016,28th April 2016,17,32,8
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,3rd May 2016,28th April 2016,17,32,646
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,3rd May 2016,28th April 2016,17,32,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,3rd May 2016,28th April 2016,17,32,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,3rd May 2016,28th April 2016,17,32,19400
+Confirmed,North America,MEX,Mexico,Americas,125385833,3rd May 2016,28th April 2016,17,32,252
+Deaths,North America,MEX,Mexico,Americas,125385833,3rd May 2016,28th April 2016,17,32,0
+Suspected,North America,MEX,Mexico,Americas,125385833,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,3rd May 2016,28th April 2016,17,32,154
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,3rd May 2016,28th April 2016,17,32,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,3rd May 2016,28th April 2016,17,32,220
+Deaths,Central America,PAN,Panama,Americas,3867535,3rd May 2016,28th April 2016,17,32,0
+Suspected,Central America,PAN,Panama,Americas,3867535,3rd May 2016,28th April 2016,17,32,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,3rd May 2016,28th April 2016,17,32,7
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,3rd May 2016,28th April 2016,17,32,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,3rd May 2016,28th April 2016,17,32,102
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,3rd May 2016,28th April 2016,17,32,626
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,3rd May 2016,28th April 2016,17,32,0
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,3rd May 2016,28th April 2016,17,32,2
+Deaths,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,3rd May 2016,28th April 2016,17,32,1
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,3rd May 2016,28th April 2016,17,32,54
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,3rd May 2016,28th April 2016,17,32,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,3rd May 2016,28th April 2016,17,32,183
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,3rd May 2016,28th April 2016,17,32,7
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,3rd May 2016,28th April 2016,17,32,527
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,3rd May 2016,28th April 2016,17,32,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,3rd May 2016,28th April 2016,17,32,3516
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,3rd May 2016,28th April 2016,17,32,16
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,3rd May 2016,28th April 2016,17,32,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,3rd May 2016,28th April 2016,17,32,16
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,3rd May 2016,28th April 2016,17,32,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,3rd May 2016,28th April 2016,17,32,83
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,3rd May 2016,28th April 2016,17,32,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,3rd May 2016,28th April 2016,17,32,1
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,3rd May 2016,28th April 2016,17,32,31224
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,10th May 2016,5th May 2016,18,33,17
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,10th May 2016,5th May 2016,18,33,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,10th May 2016,5th May 2016,18,33,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,10th May 2016,5th May 2016,18,33,316
+Confirmed,Central America,BLZ,Belize,Americas,351706,10th May 2016,5th May 2016,18,33,1
+Deaths,Central America,BLZ,Belize,Americas,351706,10th May 2016,5th May 2016,18,33,0
+Suspected,Central America,BLZ,Belize,Americas,351706,10th May 2016,5th May 2016,18,33,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,10th May 2016,5th May 2016,18,33,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,10th May 2016,5th May 2016,18,33,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,10th May 2016,5th May 2016,18,33,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,10th May 2016,5th May 2016,18,33,3
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,10th May 2016,5th May 2016,18,33,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,10th May 2016,5th May 2016,18,33,1034
+Deaths,South Cone,BRA,Brazil,Americas,206077898,10th May 2016,5th May 2016,18,33,3
+Suspected,South Cone,BRA,Brazil,Americas,206077898,10th May 2016,5th May 2016,18,33,120161
+Confirmed,Andean,COL,Colombia,Americas,47791393,10th May 2016,5th May 2016,18,33,3752
+Deaths,Andean,COL,Colombia,Americas,47791393,10th May 2016,5th May 2016,18,33,0
+Suspected,Andean,COL,Colombia,Americas,47791393,10th May 2016,5th May 2016,18,33,71435
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,10th May 2016,5th May 2016,18,33,11
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,10th May 2016,5th May 2016,18,33,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,10th May 2016,5th May 2016,18,33,0
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,10th May 2016,5th May 2016,18,33,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,10th May 2016,5th May 2016,18,33,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,10th May 2016,5th May 2016,18,33,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,10th May 2016,5th May 2016,18,33,73
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,10th May 2016,5th May 2016,18,33,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,10th May 2016,5th May 2016,18,33,18
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,10th May 2016,5th May 2016,18,33,129
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,10th May 2016,5th May 2016,18,33,73
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,10th May 2016,5th May 2016,18,33,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,10th May 2016,5th May 2016,18,33,1674
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,10th May 2016,5th May 2016,18,33,77
+Deaths,Andean,ECU,Ecuador,Americas,15902916,10th May 2016,5th May 2016,18,33,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,10th May 2016,5th May 2016,18,33,171
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,10th May 2016,5th May 2016,18,33,46
+Deaths,Central America,SLV,El Salvador,Americas,6107706,10th May 2016,5th May 2016,18,33,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,10th May 2016,5th May 2016,18,33,11281
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,10th May 2016,5th May 2016,18,33,483
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,10th May 2016,5th May 2016,18,33,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,10th May 2016,5th May 2016,18,33,4860
+Confirmed,Non Latin Caribbean,GRD,Grenada,Americas,106349,10th May 2016,5th May 2016,18,33,1
+Deaths,Non Latin Caribbean,GRD,Grenada,Americas,106349,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,GRD,Grenada,Americas,106349,10th May 2016,5th May 2016,18,33,0
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,10th May 2016,5th May 2016,18,33,412
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,10th May 2016,5th May 2016,18,33,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,10th May 2016,5th May 2016,18,33,2099
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,10th May 2016,5th May 2016,18,33,261
+Deaths,Central America,GTM,Guatemala,Americas,16015494,10th May 2016,5th May 2016,18,33,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,10th May 2016,5th May 2016,18,33,915
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,10th May 2016,5th May 2016,18,33,6
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,10th May 2016,5th May 2016,18,33,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,10th May 2016,5th May 2016,18,33,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,10th May 2016,5th May 2016,18,33,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,10th May 2016,5th May 2016,18,33,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,10th May 2016,5th May 2016,18,33,2
+Deaths,Central America,HND,Honduras,Americas,7961680,10th May 2016,5th May 2016,18,33,0
+Suspected,Central America,HND,Honduras,Americas,7961680,10th May 2016,5th May 2016,18,33,18759
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,10th May 2016,5th May 2016,18,33,8
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,10th May 2016,5th May 2016,18,33,646
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,10th May 2016,5th May 2016,18,33,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,10th May 2016,5th May 2016,18,33,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,10th May 2016,5th May 2016,18,33,20980
+Confirmed,North America,MEX,Mexico,Americas,125385833,10th May 2016,5th May 2016,18,33,264
+Deaths,North America,MEX,Mexico,Americas,125385833,10th May 2016,5th May 2016,18,33,0
+Suspected,North America,MEX,Mexico,Americas,125385833,10th May 2016,5th May 2016,18,33,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,10th May 2016,5th May 2016,18,33,167
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,10th May 2016,5th May 2016,18,33,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,10th May 2016,5th May 2016,18,33,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,10th May 2016,5th May 2016,18,33,220
+Deaths,Central America,PAN,Panama,Americas,3867535,10th May 2016,5th May 2016,18,33,0
+Suspected,Central America,PAN,Panama,Americas,3867535,10th May 2016,5th May 2016,18,33,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,10th May 2016,5th May 2016,18,33,7
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,10th May 2016,5th May 2016,18,33,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,10th May 2016,5th May 2016,18,33,102
+Confirmed,Andean,PER,Peru,Americas,30973148,10th May 2016,5th May 2016,18,33,3
+Deaths,Andean,PER,Peru,Americas,30973148,10th May 2016,5th May 2016,18,33,0
+Suspected,Andean,PER,Peru,Americas,30973148,10th May 2016,5th May 2016,18,33,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,10th May 2016,5th May 2016,18,33,707
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,10th May 2016,5th May 2016,18,33,1
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,10th May 2016,5th May 2016,18,33,0
+Confirmed,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,10th May 2016,5th May 2016,18,33,1
+Deaths,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,10th May 2016,5th May 2016,18,33,0
+Confirmed,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,10th May 2016,5th May 2016,18,33,2
+Deaths,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,10th May 2016,5th May 2016,18,33,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,10th May 2016,5th May 2016,18,33,2
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,10th May 2016,5th May 2016,18,33,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,10th May 2016,5th May 2016,18,33,61
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,10th May 2016,5th May 2016,18,33,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,10th May 2016,5th May 2016,18,33,212
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,10th May 2016,5th May 2016,18,33,7
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,10th May 2016,5th May 2016,18,33,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,10th May 2016,5th May 2016,18,33,527
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,10th May 2016,5th May 2016,18,33,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,10th May 2016,5th May 2016,18,33,2492
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,10th May 2016,5th May 2016,18,33,16
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,10th May 2016,5th May 2016,18,33,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,10th May 2016,5th May 2016,18,33,21
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,10th May 2016,5th May 2016,18,33,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,10th May 2016,5th May 2016,18,33,0
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,10th May 2016,5th May 2016,18,33,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,10th May 2016,5th May 2016,18,33,0
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,10th May 2016,5th May 2016,18,33,31224
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,17th May 2016,12th May 2016,19,34,17
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,17th May 2016,12th May 2016,19,34,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,17th May 2016,12th May 2016,19,34,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,17th May 2016,12th May 2016,19,34,316
+Confirmed,Central America,BLZ,Belize,Americas,351706,17th May 2016,12th May 2016,19,34,1
+Deaths,Central America,BLZ,Belize,Americas,351706,17th May 2016,12th May 2016,19,34,0
+Suspected,Central America,BLZ,Belize,Americas,351706,17th May 2016,12th May 2016,19,34,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,17th May 2016,12th May 2016,19,34,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,17th May 2016,12th May 2016,19,34,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,17th May 2016,12th May 2016,19,34,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,17th May 2016,12th May 2016,19,34,3
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,17th May 2016,12th May 2016,19,34,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,17th May 2016,12th May 2016,19,34,1034
+Deaths,South Cone,BRA,Brazil,Americas,206077898,17th May 2016,12th May 2016,19,34,3
+Suspected,South Cone,BRA,Brazil,Americas,206077898,17th May 2016,12th May 2016,19,34,120161
+Confirmed,Andean,COL,Colombia,Americas,47791393,17th May 2016,12th May 2016,19,34,3751
+Deaths,Andean,COL,Colombia,Americas,47791393,17th May 2016,12th May 2016,19,34,0
+Suspected,Andean,COL,Colombia,Americas,47791393,17th May 2016,12th May 2016,19,34,74334
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,17th May 2016,12th May 2016,19,34,14
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,17th May 2016,12th May 2016,19,34,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,17th May 2016,12th May 2016,19,34,0
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,17th May 2016,12th May 2016,19,34,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,17th May 2016,12th May 2016,19,34,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,17th May 2016,12th May 2016,19,34,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,17th May 2016,12th May 2016,19,34,73
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,17th May 2016,12th May 2016,19,34,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,17th May 2016,12th May 2016,19,34,18
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,17th May 2016,12th May 2016,19,34,129
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,17th May 2016,12th May 2016,19,34,73
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,17th May 2016,12th May 2016,19,34,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,17th May 2016,12th May 2016,19,34,1996
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,17th May 2016,12th May 2016,19,34,77
+Deaths,Andean,ECU,Ecuador,Americas,15902916,17th May 2016,12th May 2016,19,34,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,17th May 2016,12th May 2016,19,34,171
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,17th May 2016,12th May 2016,19,34,46
+Deaths,Central America,SLV,El Salvador,Americas,6107706,17th May 2016,12th May 2016,19,34,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,17th May 2016,12th May 2016,19,34,11198
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,17th May 2016,12th May 2016,19,34,483
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,17th May 2016,12th May 2016,19,34,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,17th May 2016,12th May 2016,19,34,5760
+Confirmed,Non Latin Caribbean,GRD,Grenada,Americas,106349,17th May 2016,12th May 2016,19,34,1
+Deaths,Non Latin Caribbean,GRD,Grenada,Americas,106349,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,GRD,Grenada,Americas,106349,17th May 2016,12th May 2016,19,34,0
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,17th May 2016,12th May 2016,19,34,379
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,17th May 2016,12th May 2016,19,34,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,17th May 2016,12th May 2016,19,34,3885
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,17th May 2016,12th May 2016,19,34,261
+Deaths,Central America,GTM,Guatemala,Americas,16015494,17th May 2016,12th May 2016,19,34,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,17th May 2016,12th May 2016,19,34,915
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,17th May 2016,12th May 2016,19,34,6
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,17th May 2016,12th May 2016,19,34,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,17th May 2016,12th May 2016,19,34,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,17th May 2016,12th May 2016,19,34,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,17th May 2016,12th May 2016,19,34,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,17th May 2016,12th May 2016,19,34,2
+Deaths,Central America,HND,Honduras,Americas,7961680,17th May 2016,12th May 2016,19,34,1
+Suspected,Central America,HND,Honduras,Americas,7961680,17th May 2016,12th May 2016,19,34,19281
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,17th May 2016,12th May 2016,19,34,8
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,17th May 2016,12th May 2016,19,34,646
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,17th May 2016,12th May 2016,19,34,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,17th May 2016,12th May 2016,19,34,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,17th May 2016,12th May 2016,19,34,23860
+Confirmed,North America,MEX,Mexico,Americas,125385833,17th May 2016,12th May 2016,19,34,272
+Deaths,North America,MEX,Mexico,Americas,125385833,17th May 2016,12th May 2016,19,34,0
+Suspected,North America,MEX,Mexico,Americas,125385833,17th May 2016,12th May 2016,19,34,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,17th May 2016,12th May 2016,19,34,167
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,17th May 2016,12th May 2016,19,34,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,17th May 2016,12th May 2016,19,34,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,17th May 2016,12th May 2016,19,34,220
+Deaths,Central America,PAN,Panama,Americas,3867535,17th May 2016,12th May 2016,19,34,0
+Suspected,Central America,PAN,Panama,Americas,3867535,17th May 2016,12th May 2016,19,34,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,17th May 2016,12th May 2016,19,34,7
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,17th May 2016,12th May 2016,19,34,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,17th May 2016,12th May 2016,19,34,102
+Confirmed,Andean,PER,Peru,Americas,30973148,17th May 2016,12th May 2016,19,34,3
+Deaths,Andean,PER,Peru,Americas,30973148,17th May 2016,12th May 2016,19,34,0
+Suspected,Andean,PER,Peru,Americas,30973148,17th May 2016,12th May 2016,19,34,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,17th May 2016,12th May 2016,19,34,707
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,17th May 2016,12th May 2016,19,34,1
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,17th May 2016,12th May 2016,19,34,0
+Confirmed,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,17th May 2016,12th May 2016,19,34,1
+Deaths,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,17th May 2016,12th May 2016,19,34,10
+Confirmed,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,17th May 2016,12th May 2016,19,34,2
+Deaths,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,17th May 2016,12th May 2016,19,34,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,17th May 2016,12th May 2016,19,34,2
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,17th May 2016,12th May 2016,19,34,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,17th May 2016,12th May 2016,19,34,82
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,17th May 2016,12th May 2016,19,34,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,17th May 2016,12th May 2016,19,34,235
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,17th May 2016,12th May 2016,19,34,7
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,17th May 2016,12th May 2016,19,34,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,17th May 2016,12th May 2016,19,34,527
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,17th May 2016,12th May 2016,19,34,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,17th May 2016,12th May 2016,19,34,2488
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,17th May 2016,12th May 2016,19,34,16
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,17th May 2016,12th May 2016,19,34,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,17th May 2016,12th May 2016,19,34,21
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,17th May 2016,12th May 2016,19,34,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,17th May 2016,12th May 2016,19,34,0
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,17th May 2016,12th May 2016,19,34,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,17th May 2016,12th May 2016,19,34,0
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,17th May 2016,12th May 2016,19,34,31224
+Confirmed,South Cone,ARG,Argentina,Americas,42980026,25th May 2016,19th May 2016,20,35,2
+Deaths,South Cone,ARG,Argentina,Americas,42980026,25th May 2016,19th May 2016,20,35,0
+Suspected,South Cone,ARG,Argentina,Americas,42980026,25th May 2016,19th May 2016,20,35,0
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,25th May 2016,19th May 2016,20,35,17
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,25th May 2016,19th May 2016,20,35,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,25th May 2016,19th May 2016,20,35,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,25th May 2016,19th May 2016,20,35,316
+Confirmed,Central America,BLZ,Belize,Americas,351706,25th May 2016,19th May 2016,20,35,1
+Deaths,Central America,BLZ,Belize,Americas,351706,25th May 2016,19th May 2016,20,35,0
+Suspected,Central America,BLZ,Belize,Americas,351706,25th May 2016,19th May 2016,20,35,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,25th May 2016,19th May 2016,20,35,12
+Deaths,Andean,BOL,Bolivia,Americas,10561887,25th May 2016,19th May 2016,20,35,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,25th May 2016,19th May 2016,20,35,0
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,25th May 2016,19th May 2016,20,35,3
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,25th May 2016,19th May 2016,20,35,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,25th May 2016,19th May 2016,20,35,31616
+Deaths,South Cone,BRA,Brazil,Americas,206077898,25th May 2016,19th May 2016,20,35,3
+Suspected,South Cone,BRA,Brazil,Americas,206077898,25th May 2016,19th May 2016,20,35,88545
+Confirmed,Andean,COL,Colombia,Americas,47791393,25th May 2016,19th May 2016,20,35,4867
+Deaths,Andean,COL,Colombia,Americas,47791393,25th May 2016,19th May 2016,20,35,0
+Suspected,Andean,COL,Colombia,Americas,47791393,25th May 2016,19th May 2016,20,35,75926
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,25th May 2016,19th May 2016,20,35,32
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,25th May 2016,19th May 2016,20,35,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,25th May 2016,19th May 2016,20,35,319
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,25th May 2016,19th May 2016,20,35,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,25th May 2016,19th May 2016,20,35,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,25th May 2016,19th May 2016,20,35,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,25th May 2016,19th May 2016,20,35,73
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,25th May 2016,19th May 2016,20,35,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,25th May 2016,19th May 2016,20,35,28
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,25th May 2016,19th May 2016,20,35,203
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,25th May 2016,19th May 2016,20,35,73
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,25th May 2016,19th May 2016,20,35,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,25th May 2016,19th May 2016,20,35,2370
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,25th May 2016,19th May 2016,20,35,79
+Deaths,Andean,ECU,Ecuador,Americas,15902916,25th May 2016,19th May 2016,20,35,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,25th May 2016,19th May 2016,20,35,209
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,25th May 2016,19th May 2016,20,35,46
+Deaths,Central America,SLV,El Salvador,Americas,6107706,25th May 2016,19th May 2016,20,35,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,25th May 2016,19th May 2016,20,35,11198
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,25th May 2016,19th May 2016,20,35,483
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,25th May 2016,19th May 2016,20,35,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,25th May 2016,19th May 2016,20,35,5760
+Confirmed,Non Latin Caribbean,GRD,Grenada,Americas,106349,25th May 2016,19th May 2016,20,35,1
+Deaths,Non Latin Caribbean,GRD,Grenada,Americas,106349,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,GRD,Grenada,Americas,106349,25th May 2016,19th May 2016,20,35,0
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,25th May 2016,19th May 2016,20,35,379
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,25th May 2016,19th May 2016,20,35,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,25th May 2016,19th May 2016,20,35,3885
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,25th May 2016,19th May 2016,20,35,261
+Deaths,Central America,GTM,Guatemala,Americas,16015494,25th May 2016,19th May 2016,20,35,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,25th May 2016,19th May 2016,20,35,915
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,25th May 2016,19th May 2016,20,35,6
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,25th May 2016,19th May 2016,20,35,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,25th May 2016,19th May 2016,20,35,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,25th May 2016,19th May 2016,20,35,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,25th May 2016,19th May 2016,20,35,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,25th May 2016,19th May 2016,20,35,2
+Deaths,Central America,HND,Honduras,Americas,7961680,25th May 2016,19th May 2016,20,35,2
+Suspected,Central America,HND,Honduras,Americas,7961680,25th May 2016,19th May 2016,20,35,19868
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,25th May 2016,19th May 2016,20,35,8
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,25th May 2016,19th May 2016,20,35,646
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,25th May 2016,19th May 2016,20,35,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,25th May 2016,19th May 2016,20,35,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,25th May 2016,19th May 2016,20,35,23860
+Confirmed,North America,MEX,Mexico,Americas,125385833,25th May 2016,19th May 2016,20,35,288
+Deaths,North America,MEX,Mexico,Americas,125385833,25th May 2016,19th May 2016,20,35,0
+Suspected,North America,MEX,Mexico,Americas,125385833,25th May 2016,19th May 2016,20,35,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,25th May 2016,19th May 2016,20,35,197
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,25th May 2016,19th May 2016,20,35,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,25th May 2016,19th May 2016,20,35,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,25th May 2016,19th May 2016,20,35,251
+Deaths,Central America,PAN,Panama,Americas,3867535,25th May 2016,19th May 2016,20,35,0
+Suspected,Central America,PAN,Panama,Americas,3867535,25th May 2016,19th May 2016,20,35,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,25th May 2016,19th May 2016,20,35,7
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,25th May 2016,19th May 2016,20,35,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,25th May 2016,19th May 2016,20,35,102
+Confirmed,Andean,PER,Peru,Americas,30973148,25th May 2016,19th May 2016,20,35,4
+Deaths,Andean,PER,Peru,Americas,30973148,25th May 2016,19th May 2016,20,35,0
+Suspected,Andean,PER,Peru,Americas,30973148,25th May 2016,19th May 2016,20,35,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,25th May 2016,19th May 2016,20,35,707
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,25th May 2016,19th May 2016,20,35,1
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,25th May 2016,19th May 2016,20,35,0
+Confirmed,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,25th May 2016,19th May 2016,20,35,1
+Deaths,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,25th May 2016,19th May 2016,20,35,10
+Confirmed,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,25th May 2016,19th May 2016,20,35,2
+Deaths,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,25th May 2016,19th May 2016,20,35,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,25th May 2016,19th May 2016,20,35,2
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,25th May 2016,19th May 2016,20,35,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,25th May 2016,19th May 2016,20,35,83
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,25th May 2016,19th May 2016,20,35,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,25th May 2016,19th May 2016,20,35,255
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,25th May 2016,19th May 2016,20,35,7
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,25th May 2016,19th May 2016,20,35,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,25th May 2016,19th May 2016,20,35,527
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,25th May 2016,19th May 2016,20,35,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,25th May 2016,19th May 2016,20,35,2488
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,25th May 2016,19th May 2016,20,35,16
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,25th May 2016,19th May 2016,20,35,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,25th May 2016,19th May 2016,20,35,21
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,25th May 2016,19th May 2016,20,35,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,25th May 2016,19th May 2016,20,35,0
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,25th May 2016,19th May 2016,20,35,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,25th May 2016,19th May 2016,20,35,0
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,25th May 2016,19th May 2016,20,35,31224
+Confirmed,South Cone,ARG,Argentina,Americas,42980026,2nd June 2016,26th May 2016,21,36,12
+Deaths,South Cone,ARG,Argentina,Americas,42980026,2nd June 2016,26th May 2016,21,36,0
+Suspected,South Cone,ARG,Argentina,Americas,42980026,2nd June 2016,26th May 2016,21,36,1556
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,2nd June 2016,26th May 2016,21,36,17
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,2nd June 2016,26th May 2016,21,36,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,2nd June 2016,26th May 2016,21,36,316
+Confirmed,Central America,BLZ,Belize,Americas,351706,2nd June 2016,26th May 2016,21,36,2
+Deaths,Central America,BLZ,Belize,Americas,351706,2nd June 2016,26th May 2016,21,36,0
+Suspected,Central America,BLZ,Belize,Americas,351706,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,2nd June 2016,26th May 2016,21,36,11
+Deaths,Andean,BOL,Bolivia,Americas,10561887,2nd June 2016,26th May 2016,21,36,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,2nd June 2016,26th May 2016,21,36,99
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,2nd June 2016,26th May 2016,21,36,3
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,2nd June 2016,26th May 2016,21,36,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,2nd June 2016,26th May 2016,21,36,31616
+Deaths,South Cone,BRA,Brazil,Americas,206077898,2nd June 2016,26th May 2016,21,36,3
+Suspected,South Cone,BRA,Brazil,Americas,206077898,2nd June 2016,26th May 2016,21,36,88545
+Confirmed,Andean,COL,Colombia,Americas,47791393,2nd June 2016,26th May 2016,21,36,6259
+Deaths,Andean,COL,Colombia,Americas,47791393,2nd June 2016,26th May 2016,21,36,0
+Suspected,Andean,COL,Colombia,Americas,47791393,2nd June 2016,26th May 2016,21,36,77487
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,2nd June 2016,26th May 2016,21,36,44
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,2nd June 2016,26th May 2016,21,36,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,2nd June 2016,26th May 2016,21,36,375
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,2nd June 2016,26th May 2016,21,36,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,2nd June 2016,26th May 2016,21,36,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,2nd June 2016,26th May 2016,21,36,73
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,2nd June 2016,26th May 2016,21,36,28
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,2nd June 2016,26th May 2016,21,36,203
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,2nd June 2016,26th May 2016,21,36,73
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,2nd June 2016,26th May 2016,21,36,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,2nd June 2016,26th May 2016,21,36,2370
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,2nd June 2016,26th May 2016,21,36,114
+Deaths,Andean,ECU,Ecuador,Americas,15902916,2nd June 2016,26th May 2016,21,36,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,2nd June 2016,26th May 2016,21,36,217
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,2nd June 2016,26th May 2016,21,36,46
+Deaths,Central America,SLV,El Salvador,Americas,6107706,2nd June 2016,26th May 2016,21,36,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,2nd June 2016,26th May 2016,21,36,11411
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,2nd June 2016,26th May 2016,21,36,483
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,2nd June 2016,26th May 2016,21,36,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,2nd June 2016,26th May 2016,21,36,6245
+Confirmed,Non Latin Caribbean,GRD,Grenada,Americas,106349,2nd June 2016,26th May 2016,21,36,1
+Deaths,Non Latin Caribbean,GRD,Grenada,Americas,106349,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,GRD,Grenada,Americas,106349,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,2nd June 2016,26th May 2016,21,36,379
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,2nd June 2016,26th May 2016,21,36,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,2nd June 2016,26th May 2016,21,36,5025
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,2nd June 2016,26th May 2016,21,36,261
+Deaths,Central America,GTM,Guatemala,Americas,16015494,2nd June 2016,26th May 2016,21,36,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,2nd June 2016,26th May 2016,21,36,915
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,2nd June 2016,26th May 2016,21,36,6
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,2nd June 2016,26th May 2016,21,36,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,2nd June 2016,26th May 2016,21,36,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,2nd June 2016,26th May 2016,21,36,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,2nd June 2016,26th May 2016,21,36,2
+Deaths,Central America,HND,Honduras,Americas,7961680,2nd June 2016,26th May 2016,21,36,2
+Suspected,Central America,HND,Honduras,Americas,7961680,2nd June 2016,26th May 2016,21,36,19868
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,2nd June 2016,26th May 2016,21,36,8
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,2nd June 2016,26th May 2016,21,36,646
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,2nd June 2016,26th May 2016,21,36,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,2nd June 2016,26th May 2016,21,36,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,2nd June 2016,26th May 2016,21,36,25610
+Confirmed,North America,MEX,Mexico,Americas,125385833,2nd June 2016,26th May 2016,21,36,310
+Deaths,North America,MEX,Mexico,Americas,125385833,2nd June 2016,26th May 2016,21,36,0
+Suspected,North America,MEX,Mexico,Americas,125385833,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,2nd June 2016,26th May 2016,21,36,207
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,2nd June 2016,26th May 2016,21,36,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,2nd June 2016,26th May 2016,21,36,274
+Deaths,Central America,PAN,Panama,Americas,3867535,2nd June 2016,26th May 2016,21,36,0
+Suspected,Central America,PAN,Panama,Americas,3867535,2nd June 2016,26th May 2016,21,36,0
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,2nd June 2016,26th May 2016,21,36,8
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,2nd June 2016,26th May 2016,21,36,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,2nd June 2016,26th May 2016,21,36,273
+Confirmed,Andean,PER,Peru,Americas,30973148,2nd June 2016,26th May 2016,21,36,4
+Deaths,Andean,PER,Peru,Americas,30973148,2nd June 2016,26th May 2016,21,36,0
+Suspected,Andean,PER,Peru,Americas,30973148,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,2nd June 2016,26th May 2016,21,36,1106
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,2nd June 2016,26th May 2016,21,36,1
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,2nd June 2016,26th May 2016,21,36,10032
+Confirmed,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,2nd June 2016,26th May 2016,21,36,1
+Deaths,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,2nd June 2016,26th May 2016,21,36,10
+Confirmed,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,2nd June 2016,26th May 2016,21,36,2
+Deaths,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,2nd June 2016,26th May 2016,21,36,2
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,2nd June 2016,26th May 2016,21,36,99
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,2nd June 2016,26th May 2016,21,36,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,2nd June 2016,26th May 2016,21,36,330
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,2nd June 2016,26th May 2016,21,36,7
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,2nd June 2016,26th May 2016,21,36,527
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,2nd June 2016,26th May 2016,21,36,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,2nd June 2016,26th May 2016,21,36,2503
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,2nd June 2016,26th May 2016,21,36,16
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,2nd June 2016,26th May 2016,21,36,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,2nd June 2016,26th May 2016,21,36,21
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,2nd June 2016,26th May 2016,21,36,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,2nd June 2016,26th May 2016,21,36,228
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,2nd June 2016,26th May 2016,21,36,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,2nd June 2016,26th May 2016,21,36,0
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,2nd June 2016,26th May 2016,21,36,31224
+Confirmed,South Cone,ARG,Argentina,Americas,42980026,7th June,2nd June 2016,22,37,19
+Deaths,South Cone,ARG,Argentina,Americas,42980026,7th June,2nd June 2016,22,37,0
+Suspected,South Cone,ARG,Argentina,Americas,42980026,7th June,2nd June 2016,22,37,1613
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,7th June,2nd June 2016,22,37,17
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,7th June,2nd June 2016,22,37,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,7th June,2nd June 2016,22,37,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,7th June,2nd June 2016,22,37,316
+Confirmed,Central America,BLZ,Belize,Americas,351706,7th June,2nd June 2016,22,37,2
+Deaths,Central America,BLZ,Belize,Americas,351706,7th June,2nd June 2016,22,37,0
+Suspected,Central America,BLZ,Belize,Americas,351706,7th June,2nd June 2016,22,37,0
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,7th June,2nd June 2016,22,37,11
+Deaths,Andean,BOL,Bolivia,Americas,10561887,7th June,2nd June 2016,22,37,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,7th June,2nd June 2016,22,37,99
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,7th June,2nd June 2016,22,37,3
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,7th June,2nd June 2016,22,37,0
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,7th June,2nd June 2016,22,37,39993
+Deaths,South Cone,BRA,Brazil,Americas,206077898,7th June,2nd June 2016,22,37,3
+Suspected,South Cone,BRA,Brazil,Americas,206077898,7th June,2nd June 2016,22,37,154270
+Confirmed,Andean,COL,Colombia,Americas,47791393,7th June,2nd June 2016,22,37,6402
+Deaths,Andean,COL,Colombia,Americas,47791393,7th June,2nd June 2016,22,37,0
+Suspected,Andean,COL,Colombia,Americas,47791393,7th June,2nd June 2016,22,37,80953
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,7th June,2nd June 2016,22,37,58
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,7th June,2nd June 2016,22,37,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,7th June,2nd June 2016,22,37,2090
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,7th June,2nd June 2016,22,37,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,7th June,2nd June 2016,22,37,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,7th June,2nd June 2016,22,37,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,7th June,2nd June 2016,22,37,73
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,7th June,2nd June 2016,22,37,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,7th June,2nd June 2016,22,37,28
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,7th June,2nd June 2016,22,37,203
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,7th June,2nd June 2016,22,37,73
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,7th June,2nd June 2016,22,37,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,7th June,2nd June 2016,22,37,2370
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,7th June,2nd June 2016,22,37,143
+Deaths,Andean,ECU,Ecuador,Americas,15902916,7th June,2nd June 2016,22,37,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,7th June,2nd June 2016,22,37,393
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,7th June,2nd June 2016,22,37,46
+Deaths,Central America,SLV,El Salvador,Americas,6107706,7th June,2nd June 2016,22,37,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,7th June,2nd June 2016,22,37,11631
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,7th June,2nd June 2016,22,37,483
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,7th June,2nd June 2016,22,37,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,7th June,2nd June 2016,22,37,6700
+Confirmed,Non Latin Caribbean,GRD,Grenada,Americas,106349,7th June,2nd June 2016,22,37,1
+Deaths,Non Latin Caribbean,GRD,Grenada,Americas,106349,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,GRD,Grenada,Americas,106349,7th June,2nd June 2016,22,37,0
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,7th June,2nd June 2016,22,37,379
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,7th June,2nd June 2016,22,37,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,7th June,2nd June 2016,22,37,6320
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,7th June,2nd June 2016,22,37,1162
+Deaths,Central America,GTM,Guatemala,Americas,16015494,7th June,2nd June 2016,22,37,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,7th June,2nd June 2016,22,37,1089
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,7th June,2nd June 2016,22,37,6
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,7th June,2nd June 2016,22,37,0
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,7th June,2nd June 2016,22,37,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,7th June,2nd June 2016,22,37,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,7th June,2nd June 2016,22,37,1777
+Confirmed,Central America,HND,Honduras,Americas,7961680,7th June,2nd June 2016,22,37,44
+Deaths,Central America,HND,Honduras,Americas,7961680,7th June,2nd June 2016,22,37,2
+Suspected,Central America,HND,Honduras,Americas,7961680,7th June,2nd June 2016,22,37,21025
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,7th June,2nd June 2016,22,37,14
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,7th June,2nd June 2016,22,37,646
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,7th June,2nd June 2016,22,37,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,7th June,2nd June 2016,22,37,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,7th June,2nd June 2016,22,37,26650
+Confirmed,North America,MEX,Mexico,Americas,125385833,7th June,2nd June 2016,22,37,314
+Deaths,North America,MEX,Mexico,Americas,125385833,7th June,2nd June 2016,22,37,0
+Suspected,North America,MEX,Mexico,Americas,125385833,7th June,2nd June 2016,22,37,0
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,7th June,2nd June 2016,22,37,207
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,7th June,2nd June 2016,22,37,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,7th June,2nd June 2016,22,37,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,7th June,2nd June 2016,22,37,274
+Deaths,Central America,PAN,Panama,Americas,3867535,7th June,2nd June 2016,22,37,0
+Suspected,Central America,PAN,Panama,Americas,3867535,7th June,2nd June 2016,22,37,638
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,7th June,2nd June 2016,22,37,8
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,7th June,2nd June 2016,22,37,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,7th June,2nd June 2016,22,37,273
+Confirmed,Andean,PER,Peru,Americas,30973148,7th June,2nd June 2016,22,37,5
+Deaths,Andean,PER,Peru,Americas,30973148,7th June,2nd June 2016,22,37,0
+Suspected,Andean,PER,Peru,Americas,30973148,7th June,2nd June 2016,22,37,0
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,7th June,2nd June 2016,22,37,1170
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,7th June,2nd June 2016,22,37,1
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,7th June,2nd June 2016,22,37,10535
+Confirmed,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,7th June,2nd June 2016,22,37,7
+Deaths,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,7th June,2nd June 2016,22,37,19
+Confirmed,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,7th June,2nd June 2016,22,37,2
+Deaths,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,7th June,2nd June 2016,22,37,0
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,7th June,2nd June 2016,22,37,2
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,7th June,2nd June 2016,22,37,0
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,7th June,2nd June 2016,22,37,109
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,7th June,2nd June 2016,22,37,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,7th June,2nd June 2016,22,37,425
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,7th June,2nd June 2016,22,37,7
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,7th June,2nd June 2016,22,37,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,7th June,2nd June 2016,22,37,527
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,7th June,2nd June 2016,22,37,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,7th June,2nd June 2016,22,37,2503
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,7th June,2nd June 2016,22,37,16
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,7th June,2nd June 2016,22,37,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,7th June,2nd June 2016,22,37,21
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,7th June,2nd June 2016,22,37,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,7th June,2nd June 2016,22,37,228
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,7th June,2nd June 2016,22,37,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,7th June,2nd June 2016,22,37,0
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,7th June,2nd June 2016,22,37,31224
+Confirmed,Andean,BOL,Bolivia,Americas,10561887,14th June 2016,9th June 2016,23,38,11
+Deaths,Andean,BOL,Bolivia,Americas,10561887,14th June 2016,9th June 2016,23,38,0
+Suspected,Andean,BOL,Bolivia,Americas,10561887,14th June 2016,9th June 2016,23,38,99
+Confirmed,Andean,COL,Colombia,Americas,47791393,14th June 2016,9th June 2016,23,38,7582
+Deaths,Andean,COL,Colombia,Americas,47791393,14th June 2016,9th June 2016,23,38,0
+Suspected,Andean,COL,Colombia,Americas,47791393,14th June 2016,9th June 2016,23,38,81363
+Confirmed,Andean,ECU,Ecuador,Americas,15902916,14th June 2016,9th June 2016,23,38,242
+Deaths,Andean,ECU,Ecuador,Americas,15902916,14th June 2016,9th June 2016,23,38,0
+Suspected,Andean,ECU,Ecuador,Americas,15902916,14th June 2016,9th June 2016,23,38,2614
+Confirmed,Andean,PER,Peru,Americas,30973148,14th June 2016,9th June 2016,23,38,20
+Deaths,Andean,PER,Peru,Americas,30973148,14th June 2016,9th June 2016,23,38,0
+Suspected,Andean,PER,Peru,Americas,30973148,14th June 2016,9th June 2016,23,38,118
+Confirmed,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,14th June 2016,9th June 2016,23,38,352
+Deaths,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,14th June 2016,9th June 2016,23,38,0
+Suspected,Andean,VEN,Venezuela (Bolivarian Republic of),Americas,30693827,14th June 2016,9th June 2016,23,38,31224
+Confirmed,Central America,BLZ,Belize,Americas,351706,14th June 2016,9th June 2016,23,38,2
+Deaths,Central America,BLZ,Belize,Americas,351706,14th June 2016,9th June 2016,23,38,0
+Suspected,Central America,BLZ,Belize,Americas,351706,14th June 2016,9th June 2016,23,38,0
+Confirmed,Central America,CRI,Costa Rica,Americas,4757606,14th June 2016,9th June 2016,23,38,70
+Deaths,Central America,CRI,Costa Rica,Americas,4757606,14th June 2016,9th June 2016,23,38,0
+Suspected,Central America,CRI,Costa Rica,Americas,4757606,14th June 2016,9th June 2016,23,38,435
+Confirmed,Central America,SLV,El Salvador,Americas,6107706,14th June 2016,9th June 2016,23,38,46
+Deaths,Central America,SLV,El Salvador,Americas,6107706,14th June 2016,9th June 2016,23,38,0
+Suspected,Central America,SLV,El Salvador,Americas,6107706,14th June 2016,9th June 2016,23,38,11668
+Confirmed,Central America,GTM,Guatemala,Americas,16015494,14th June 2016,9th June 2016,23,38,377
+Deaths,Central America,GTM,Guatemala,Americas,16015494,14th June 2016,9th June 2016,23,38,0
+Suspected,Central America,GTM,Guatemala,Americas,16015494,14th June 2016,9th June 2016,23,38,1162
+Confirmed,Central America,HND,Honduras,Americas,7961680,14th June 2016,9th June 2016,23,38,44
+Deaths,Central America,HND,Honduras,Americas,7961680,14th June 2016,9th June 2016,23,38,2
+Suspected,Central America,HND,Honduras,Americas,7961680,14th June 2016,9th June 2016,23,38,21025
+Confirmed,Central America,NIC,Nicaragua,Americas,6013913,14th June 2016,9th June 2016,23,38,207
+Deaths,Central America,NIC,Nicaragua,Americas,6013913,14th June 2016,9th June 2016,23,38,0
+Suspected,Central America,NIC,Nicaragua,Americas,6013913,14th June 2016,9th June 2016,23,38,0
+Confirmed,Central America,PAN,Panama,Americas,3867535,14th June 2016,9th June 2016,23,38,276
+Deaths,Central America,PAN,Panama,Americas,3867535,14th June 2016,9th June 2016,23,38,0
+Suspected,Central America,PAN,Panama,Americas,3867535,14th June 2016,9th June 2016,23,38,863
+Confirmed,Latin Caribbean,CUB,Cuba,Americas,11379111,14th June 2016,9th June 2016,23,38,1
+Deaths,Latin Caribbean,CUB,Cuba,Americas,11379111,14th June 2016,9th June 2016,23,38,0
+Suspected,Latin Caribbean,CUB,Cuba,Americas,11379111,14th June 2016,9th June 2016,23,38,0
+Confirmed,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,14th June 2016,9th June 2016,23,38,73
+Deaths,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,14th June 2016,9th June 2016,23,38,0
+Suspected,Latin Caribbean,DOM,Dominican Republic,Americas,10405943,14th June 2016,9th June 2016,23,38,2987
+Confirmed,Latin Caribbean,GUF,French Guiana,Americas,237549,14th June 2016,9th June 2016,23,38,483
+Deaths,Latin Caribbean,GUF,French Guiana,Americas,237549,14th June 2016,9th June 2016,23,38,0
+Suspected,Latin Caribbean,GUF,French Guiana,Americas,237549,14th June 2016,9th June 2016,23,38,7200
+Confirmed,Latin Caribbean,GLP,Guadeloupe,Americas,404635,14th June 2016,9th June 2016,23,38,379
+Deaths,Latin Caribbean,GLP,Guadeloupe,Americas,404635,14th June 2016,9th June 2016,23,38,0
+Suspected,Latin Caribbean,GLP,Guadeloupe,Americas,404635,14th June 2016,9th June 2016,23,38,7830
+Confirmed,Latin Caribbean,HTI,Haiti,Americas,10572029,14th June 2016,9th June 2016,23,38,5
+Deaths,Latin Caribbean,HTI,Haiti,Americas,10572029,14th June 2016,9th June 2016,23,38,0
+Suspected,Latin Caribbean,HTI,Haiti,Americas,10572029,14th June 2016,9th June 2016,23,38,1777
+Confirmed,Latin Caribbean,MTQ,Martinique,Americas,392291,14th June 2016,9th June 2016,23,38,12
+Deaths,Latin Caribbean,MTQ,Martinique,Americas,392291,14th June 2016,9th June 2016,23,38,0
+Suspected,Latin Caribbean,MTQ,Martinique,Americas,392291,14th June 2016,9th June 2016,23,38,27800
+Confirmed,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,14th June 2016,9th June 2016,23,38,1352
+Deaths,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,14th June 2016,9th June 2016,23,38,1
+Suspected,Latin Caribbean,PRI,Puerto Rico,Americas,3548397,14th June 2016,9th June 2016,23,38,9657
+Confirmed,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,14th June 2016,9th June 2016,23,38,145
+Deaths,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,14th June 2016,9th June 2016,23,38,0
+Suspected,Latin Caribbean,MAF,Saint-Martin (French),Americas,31530,14th June 2016,9th June 2016,23,38,530
+Confirmed,Non Latin Caribbean,ABW,Aruba,Americas,103441,14th June 2016,9th June 2016,23,38,17
+Deaths,Non Latin Caribbean,ABW,Aruba,Americas,103441,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,ABW,Aruba,Americas,103441,14th June 2016,9th June 2016,23,38,0
+Confirmed,Non Latin Caribbean,BRB,Barbados,Americas,283380,14th June 2016,9th June 2016,23,38,7
+Deaths,Non Latin Caribbean,BRB,Barbados,Americas,283380,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,BRB,Barbados,Americas,283380,14th June 2016,9th June 2016,23,38,316
+Confirmed,Non Latin Caribbean,BES,Bonaire,Americas,17408,14th June 2016,9th June 2016,23,38,3
+Deaths,Non Latin Caribbean,BES,Bonaire,Americas,17408,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,BES,Bonaire,Americas,17408,14th June 2016,9th June 2016,23,38,0
+Confirmed,Non Latin Caribbean,CUW,Curaçao,Americas,155872,14th June 2016,9th June 2016,23,38,73
+Deaths,Non Latin Caribbean,CUW,Curaçao,Americas,155872,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,CUW,Curaçao,Americas,155872,14th June 2016,9th June 2016,23,38,0
+Confirmed,Non Latin Caribbean,DMA,Dominica,Americas,72341,14th June 2016,9th June 2016,23,38,39
+Deaths,Non Latin Caribbean,DMA,Dominica,Americas,72341,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,DMA,Dominica,Americas,72341,14th June 2016,9th June 2016,23,38,391
+Confirmed,Non Latin Caribbean,GRD,Grenada,Americas,106349,14th June 2016,9th June 2016,23,38,2
+Deaths,Non Latin Caribbean,GRD,Grenada,Americas,106349,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,GRD,Grenada,Americas,106349,14th June 2016,9th June 2016,23,38,0
+Confirmed,Non Latin Caribbean,GUY,Guyana,Americas,763893,14th June 2016,9th June 2016,23,38,6
+Deaths,Non Latin Caribbean,GUY,Guyana,Americas,763893,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,GUY,Guyana,Americas,763893,14th June 2016,9th June 2016,23,38,0
+Confirmed,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,14th June 2016,9th June 2016,23,38,16
+Deaths,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,JAM,Jamaica,Americas,2721252,14th June 2016,9th June 2016,23,38,646
+Confirmed,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,14th June 2016,9th June 2016,23,38,12
+Deaths,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,BLM,Saint Barthelemy,Americas,9035,14th June 2016,9th June 2016,23,38,40
+Confirmed,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,14th June 2016,9th June 2016,23,38,7
+Deaths,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,LCA,Saint Lucia,Americas,183645,14th June 2016,9th June 2016,23,38,24
+Confirmed,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,14th June 2016,9th June 2016,23,38,2
+Deaths,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,VCT,Saint Vincent and the Grenadines,Americas,109360,14th June 2016,9th June 2016,23,38,0
+Confirmed,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,14th June 2016,9th June 2016,23,38,7
+Deaths,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,SXM,Sint Maarten,Americas,33609,14th June 2016,9th June 2016,23,38,0
+Confirmed,Non Latin Caribbean,SUR,Suriname,Americas,538248,14th June 2016,9th June 2016,23,38,527
+Deaths,Non Latin Caribbean,SUR,Suriname,Americas,538248,14th June 2016,9th June 2016,23,38,4
+Suspected,Non Latin Caribbean,SUR,Suriname,Americas,538248,14th June 2016,9th June 2016,23,38,2515
+Confirmed,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,14th June 2016,9th June 2016,23,38,40
+Deaths,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,TTO,Trinidad and Tobago,Americas,1354483,14th June 2016,9th June 2016,23,38,0
+Confirmed,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,14th June 2016,9th June 2016,23,38,24
+Deaths,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,14th June 2016,9th June 2016,23,38,0
+Suspected,Non Latin Caribbean,VIR,United States Virgin Islands,Americas,104170,14th June 2016,9th June 2016,23,38,276
+Confirmed,North America,MEX,Mexico,Americas,125385833,14th June 2016,9th June 2016,23,38,345
+Deaths,North America,MEX,Mexico,Americas,125385833,14th June 2016,9th June 2016,23,38,0
+Suspected,North America,MEX,Mexico,Americas,125385833,14th June 2016,9th June 2016,23,38,0
+Confirmed,South Cone,ARG,Argentina,Americas,42980026,14th June 2016,9th June 2016,23,38,20
+Deaths,South Cone,ARG,Argentina,Americas,42980026,14th June 2016,9th June 2016,23,38,0
+Suspected,South Cone,ARG,Argentina,Americas,42980026,14th June 2016,9th June 2016,23,38,1604
+Confirmed,South Cone,BRA,Brazil,Americas,206077898,14th June 2016,9th June 2016,23,38,39993
+Deaths,South Cone,BRA,Brazil,Americas,206077898,14th June 2016,9th June 2016,23,38,6
+Suspected,South Cone,BRA,Brazil,Americas,206077898,14th June 2016,9th June 2016,23,38,148905
+Confirmed,South Cone,PRY,Paraguay,Americas,6552518,14th June 2016,9th June 2016,23,38,8
+Deaths,South Cone,PRY,Paraguay,Americas,6552518,14th June 2016,9th June 2016,23,38,0
+Suspected,South Cone,PRY,Paraguay,Americas,6552518,14th June 2016,9th June 2016,23,38,275

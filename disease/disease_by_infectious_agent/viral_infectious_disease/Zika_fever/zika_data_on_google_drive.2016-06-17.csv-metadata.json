@@ -1,0 +1,29 @@
+
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "who.by_county.2016_03_20.csv",
+  "dc:creator": "https://docs.google.com/spreadsheets/d/1_S6PA5L32Mq7H_cfp9NAe-Y8-17hNer2OMyb3hVPTvU/edit#gid=1445490056",
+  "tableSchema": {
+    "columns": [{
+      "titles": "PAHO Sub-Region"
+    },{
+      "titles": "ISO-3"
+    },{
+      "titles": "Country / territory"
+    },{
+      "titles": "IFRC Sub-Region"
+    },{
+      "titles": "Population"
+    },{
+      "titles": "Tracker Update Date"
+    },{
+      "titles": "Data Publication Date"
+    },{
+      "titles": "EPI Week (year)"
+    },{
+      "titles": "EPI Week (outbreak)"
+    },{
+      "titles": "Cases"
+    }]
+  }
+}
