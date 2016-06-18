@@ -1,0 +1,9 @@
+{
+"@type": "TableGroup",
+"@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+"tables": [
+  {
+  "url": "../../disease_by_infectious_agent/viral_infectious_disease/Zika_fever/zika_data_on_google_drive.2016-06-17.csv",
+  "tableSchema": "../../disease_by_infectious_agent/viral_infectious_disease/Zika_fever/zika_data_on_google_drive.2016-06-17.csv-metadata.json"
+  }]
+}
