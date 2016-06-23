@@ -13,8 +13,12 @@
     license: 
       name: "Apache 2.0"
       url: "https://github.com/JohnTigue/outbreak_time_series/blob/master/LICENSE"
+  host: "raw.githubusercontent.com"
+  basePath: "/JohnTigue/outbreak_time_series_data/master"
+  schemes: 
+    - "http"
   paths:
-    /disease/disease_by_DOID/{DOID}:
+    /disease/disease_by_DOID/{DOID}/csv-metadata.json:
       get:
         description: a IDOTS list for a given Diseaese Ontology ID (DOID)
         parameters:
