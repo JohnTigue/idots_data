@@ -1,0 +1,62 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "0.1.0",
+    "title": "Outbreak Time Series Library Service",
+    "description": "A RESTful API for a library of Outbreak Time Series Specification conformant data documents",
+    "termsOfService": "",
+    "contact": {
+      "name": "john@tigue.com"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "https://github.com/JohnTigue/outbreak_time_series/blob/master/LICENSE"
+    }
+  },
+  "paths": {
+    "/disease/disease_by_DOID/{DOID}": {
+      "get": {
+        "description": "a IDOTS list for a given Diseaese Ontology ID (DOID)",
+        "parameters": [
+          {
+            "name": "DOID",
+            "in": "path",
+            "type": "integer",
+            "required": true,
+            "description": "The Diseaese Ontology ID (DOID) requested."
+          }
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "An IDOTS list",
+            "schema": {
+              "$ref": "#/definitions/TableGroup"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "TableGroup": {
+      "type": "object"
+    },
+    "OutbreakTimeSeries": {
+      "type": "object",
+      "required": [
+        "url"
+      ],
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "tableSchema": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
